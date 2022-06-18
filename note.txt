@@ -1,0 +1,3 @@
+npm install -g docsify-cli
+docsify serve
+docsify -v
