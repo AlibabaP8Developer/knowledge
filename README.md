@@ -1,5 +1,5 @@
 
-<span style="color: green;font-size:30px;text-align:center;">网站内容持续更新中...</span>
+<p align='center' style='color:green;font-size:30px;font-family:华文行楷'>网站内容持续更新中...</p>
 
 # Java
 
@@ -208,6 +208,166 @@
 # Linux
 
 - [Linux常用命令](./docs/linux/Linux常用命令.md) <br>
+
+# 学习视频推荐
+<!-- tabs:start -->
+
+## Java
+### Java基础
+
+---
+
+> [Java学习路线图（2022版）](https://www.bilibili.com/read/cv9965357?spm_id_from=333.999.list.card_article.click)
+
+> [黑马程序员Java零基础视频教程(2022最新Java入门，含斯坦福大学练习题+力扣算法题+大厂Java面试题](https://www.bilibili.com/video/BV17F411T7Ao?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+> [黑马程序员2022最新SSM框架教程_Spring+SpringMVC+Maven高级+SpringBoot+Mybatis Plus企业实用高级开发技术](https://www.bilibili.com/video/BV1Fi4y1S7ix?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+> [黑马程序员Redis入门到实战教程，全面透析redis底层原理+redis分布式锁+企业解决方案+Redis实战](https://www.bilibili.com/video/BV1cr4y1671t?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+> [黑马程序员最新版JavaWeb基础教程，Java web从入门到企业实战完整版](https://www.bilibili.com/video/BV1Qf4y1T7Hx?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+### Java进阶
+
+---
+
+> [黑马程序员SpringBoot2全套视频教程，springboot零基础到项目实战](https://www.bilibili.com/video/BV15b4y1a7yG?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，史上最全面的SpringCloud微服务技术栈课程](https://www.bilibili.com/video/BV1LQ4y127n4?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [黑马程序员Spring视频教程，全面深度讲解spring5底层原理](https://www.bilibili.com/video/BV1P44y1N7QG?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化](https://www.bilibili.com/video/BV1Kr4y1i7ru?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [尚硅谷2022版JUC并发编程（对标阿里P6-P7）](https://www.bilibili.com/video/BV1ar4y1x727?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [黑马程序员Java设计模式详解，全网最全23种Java设计模式](https://www.bilibili.com/video/BV1Np4y1z7BU?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [黑马程序员Nginx教程，Java进阶从0到1学会Nginx分布式框架](https://www.bilibili.com/video/BV1ov41187bq?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+> [黑马程序员Netty全套教程，全网最全Netty深入浅出教程，Java网络编程的王者](https://www.bilibili.com/video/BV1py4y1E7oA?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+> [尚硅谷Sharding Sphere，Sharding JDBC，分库分表利器，数据库中间件](https://www.bilibili.com/video/BV1LK411s7RX?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+### Java面试相关
+
+---
+
+>  [Java八股文面试题视频教程，Java面试八股文宝典（含阿里、腾迅大厂java面试真题、Java并发、Java数据结构、JVM等最新Java面试真题](https://www.bilibili.com/video/BV15b4y117RJ?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+
+## 大数据
+
+---
+
+>  [尚硅谷大数据Hadoop教程（Hadoop 3.x安装搭建到集群调优）](https://www.bilibili.com/video/BV1Qp4y1n7EN?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [尚硅谷HBase2.x教程（2022新版，一套全面掌握hbase）](https://www.bilibili.com/video/BV1PZ4y1i7gZ?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [尚硅谷Kafka3.x教程（2022版，从入门到调优，深入全面）](https://www.bilibili.com/video/BV1vr4y1677k?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+## 前端
+
+---
+
+>  [最新前端开发入门教程，web前端零基础html5 +css3+前端项目视频教程](https://www.bilibili.com/video/BV1Kg411T7t9?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [黑马程序员前端微信小程序开发教程，微信小程序从基础到发布全流程](https://www.bilibili.com/video/BV1834y1676P?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [尚硅谷2022版Webpack5入门到原理（面试开发一条龙）](https://www.bilibili.com/video/BV14T4y1z7sw?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [黑马程序员Node.js全套入门教程，nodejs最新教程含es6模块化+npm+express+webpack+promise等-NodeJs实战案例详解](https://www.bilibili.com/video/BV1a34y167AZ?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [黑马程序员Vue全套视频教程，从vue2.0到vue3.0一套全覆盖，前端必会的框架教程](https://www.bilibili.com/video/BV1zq4y1p7ga?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [尚硅谷Vue2.0+Vue3.0全套教程丨vuejs从入门到精通](https://www.bilibili.com/video/BV1Zy4y1K7SH?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+>  [尚硅谷VUE项目实战，前端项目-尚品汇(大型\重磅)](https://www.bilibili.com/video/BV1Vf4y1T7bw?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+## iOS
+
+> [iOS开发基础班+就业班（100天完整版）之基础班2：Objective-C学习（10天）](https://www.bilibili.com/video/BV1NJ411T78u?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+> [iOS开发基础班+就业班（100天完整版）之就业班4：网络通信（8天）](https://www.bilibili.com/video/BV14J411T7cQ?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+> [iOS开发基础班+就业班（100天完整版）之就业班3：多线程实战（4天）](https://www.bilibili.com/video/BV1sJ411T7Np?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+> [iOS开发基础班+就业班（100天完整版）之就业班6：知识拓展（11天）](https://www.bilibili.com/video/BV1tJ411T7TL?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+> [iOS开发基础班+就业班（100天完整版）之就业班1：UI基础（10天）](https://www.bilibili.com/video/BV1EJ411T7At?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+> [iOS开发基础班+就业班（100天完整版）之就业班2：UI进阶（14天）](https://www.bilibili.com/video/BV1bJ411T7fj?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+> [iOS开发基础班+就业班（100天完整版）之就业班7：iPad开发（6天）](https://www.bilibili.com/video/BV1tJ411T7LL?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+
+## 英语学习
+
+---
+
+>  [英语兔](https://space.bilibili.com/483162496/channel/series)
+
+## 网盘资源
+
+---
+
+ - [尚硅谷Java全套视频教程网盘](https://pan.baidu.com/s/1Kg7UUpO3wwALX6x28cWA7A)
+
+提取码：
+```java
+8op3
+```
+
+ - [尚硅谷大数据全套视频教程](https://pan.baidu.com/s/18Feqa_63640xPB0fYJ8Ttg)
+
+提取码：
+```java
+9bnr
+```
+
+ - [尚硅谷前端全套视频教程](https://pan.baidu.com/s/1BM_OKMXXAGxMNqaBN_7tRg)
+
+提取码：
+```java
+afyt
+```
+
+ - [黑马程序员Java教程及资料](https://pan.baidu.com/s/1LxIxcHDO7SYB96SE-GZfuQ)
+
+提取码：
+```java
+dor4
+```
+
+ - [黑马程序员前端教程及资料](https://pan.baidu.com/s/15yVOafBdEz3VU6hvYCOsYA)
+
+提取码：
+```java
+1234
+```
+
+ - [2022最新C++全套](https://pan.baidu.com/s/1Xf1cZhd4gAv711Oh6fITLA)
+
+提取码： 
+```java
+od36
+```
+
+
+## 国学经典
+
+---
+
+>  [《论语》心得](https://www.bilibili.com/video/BV1jb411h7q2?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+## 大学公开课
+
+---
+
+> [数据结构-浙江大学](https://www.bilibili.com/video/BV1JW411i731?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+> [王道计算机考研 计算机组成原理](https://www.bilibili.com/video/BV1BE411D7ii?p=4&vd_source=499cbc90089ffede10f01ef930ae618a)
+
+
 
 # 开源项目推荐
 
