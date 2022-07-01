@@ -5,5 +5,5 @@
 
 ## 记住，一定要善用 `Ctrl+F` 哦！
 
-[**联系作者**](https://github.com/rd2coding/Road2Coding)
+[**联系作者**](https://github.com/lzhjavagithub/JavaStudy)
 [**开启阅读**](README.md)

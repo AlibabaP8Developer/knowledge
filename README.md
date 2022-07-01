@@ -207,7 +207,19 @@
 
 # Linux
 
-- [Linux常用命令](./docs/linux/Linux常用命令.md) <br>
+> [Linux常用命令](./docs/linux/Linux常用命令.md) <br>
+
+# Nginx
+
+> [Nginx简介/常见服务器对比/Nginx的优点/Nginx环境准备及安装](./docs/nginx/day1/Nginx_day01.md)
+
+> [Nginx进阶篇/Nginx服务器基础配置实例/Nginx服务操作的问题/Nginx静态资源部署](./docs/nginx/day2/Nginx_day02.md)
+
+> [Rewrite功能配置/Nginx反向代理/Nginx的安全控制SSL](./docs/nginx/day3/Nginx_day03.md)
+
+> [Nginx负载均衡/Nginx缓存集成](./docs/nginx/day4/Nginx_day04.md)
+
+> [Nginx实现服务器端集群搭建/Nginx实现动静分离/Nginx高可用解决方案/Nginx与Tomcat部署](./docs/nginx/day5/Nginx_day05.md)
 
 # 学习视频推荐
 <!-- tabs:start -->
@@ -352,7 +364,6 @@ dor4
 od36
 ```
 
-
 ## 国学经典
 
 ---
@@ -367,7 +378,15 @@ od36
 
 > [王道计算机考研 计算机组成原理](https://www.bilibili.com/video/BV1BE411D7ii?p=4&vd_source=499cbc90089ffede10f01ef930ae618a)
 
+# 软考高级
 
+## 系统架构设计师
+
+> [2021年11月系统架构设计师 上午题 详解](./docs/soft-exam-high/2021%E5%B9%B411%E6%9C%88%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88%20%E4%B8%8A%E5%8D%88%E9%A2%98.md)
+
+> [计算机系统基础练习题（1）](./docs/soft-exam-high/%E8%BD%AF%E8%80%83%E9%AB%98%E7%BA%A7-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80.md)
+
+> [计算机系统基础练习题（2）](./docs/soft-exam-high/%E8%BD%AF%E4%BB%B6%E9%AB%98%E7%BA%A7-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%802.md)
 
 # 开源项目推荐
 
