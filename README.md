@@ -34,7 +34,7 @@
 
 - [为什么Java中只有值传递](./docs/basic/为什么Java中只有值传递.md) <br>
 
-- [算法篇：二分查找、排序、设计模式等](./docs/basic/算法篇：二分查找、排序、设计模式等.md) <br>
+- [算法篇：二分查找、排序、设计模式等](./docs/basic/%E5%9F%BA%E7%A1%80%E7%AF%87%E8%AE%B2%E4%B9%89.md) <br>
 
 - [BigDecimal解决浮点数运算精度丢失问题](./docs/basic/BigDecimal解决浮点数运算精度丢失问题.md) <br>
 
@@ -200,6 +200,12 @@
 
 ## Git
 - [Git常用操作](./docs/git/git.md)
+
+
+
+# Gradle
+
+> [Gradle安装-在Mac上](./docs/gradle/gradle-installl.md)
 
 # 前端
 
@@ -389,6 +395,8 @@ od36
 # 软考高级
 
 ## 系统架构设计师
+
+> [技术部分专题：01信息系统基础](./docs/soft-exam-high/%E6%8A%80%E6%9C%AF%E9%83%A8%E5%88%86%E4%B8%93%E9%A2%98%EF%BC%9A01%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80.md)
 
 > [2021年11月系统架构设计师 上午题 详解](./docs/soft-exam-high/2021%E5%B9%B411%E6%9C%88%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88%20%E4%B8%8A%E5%8D%88%E9%A2%98.md)
 
