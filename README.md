@@ -134,6 +134,9 @@
 
 - [事务隔离级别(图文详解)](./docs/database/mysql/transaction-isolation-level.md)
 
+- [MySQL安装](./docs/database/mysql/mysql-install.md)
+
+- [MySQL备份与恢复](./docs/database/mysql/mysql-bak.md)
 ## Redis
 
 - [3种常用的缓存读写策略](./docs/database/Redis/3-commonly-used-cache-read-and-write-strategies.md)
@@ -204,8 +207,8 @@
 
 
 # Gradle
-
-> [Gradle安装-在Mac上](./docs/gradle/gradle-installl.md)
+ 
+> [Gradle安装【Mac】](./docs/gradle/gradle-installl.md)
 
 # 前端
 
@@ -214,6 +217,8 @@
 # Linux
 
 > [Linux常用命令](./docs/linux/Linux常用命令.md) <br>
+
+> [Linux配置JDK](./docs/linux/Linux%E9%85%8D%E7%BD%AEJDK.md)
 
 # Nginx
 
@@ -226,6 +231,8 @@
 > [Nginx负载均衡/Nginx缓存集成](./docs/nginx/day4/Nginx_day04.md)
 
 > [Nginx实现服务器端集群搭建/Nginx实现动静分离/Nginx高可用解决方案/Nginx与Tomcat部署](./docs/nginx/day5/Nginx_day05.md)
+
+> [Nginx安装和配置https精简实用版](./docs/nginx/nginx.md)
 
 # Docker
 
