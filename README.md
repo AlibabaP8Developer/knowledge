@@ -212,11 +212,19 @@
 
 - [Redis 内存碎片](./docs/database/Redis/redis-memory-fragmentation.md)
 
-- [Redis分布式缓存](./docs/database/Redis/Redis%E9%AB%98%E7%BA%A7-%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98.md)
+- [Redis分布式缓存：持久化、主从、哨兵、分片集群](./docs/database/Redis/Redis%E9%AB%98%E7%BA%A7-%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98.md)
 
 - [Redis集群环境搭建](./docs/database/Redis/Redis%E9%9B%86%E7%BE%A4.md)
 
+- [安装OpenResty](./docs/database/Redis/%E5%AE%89%E8%A3%85OpenResty.md)
+
+- [安装Canal](./docs/database/Redis/%E5%AE%89%E8%A3%85Canal.md)
+
 - [多级缓存](./docs/database/Redis/%E5%A4%9A%E7%BA%A7%E7%BC%93%E5%AD%98.md)
+
+- [Redis实战：缓存击穿｜穿透｜雪崩、Redis消息队列、Redission、封装Redis工具累](./docs/database/Redis/Redis%E5%AE%9E%E6%88%98%E7%AF%87.md)
+
+- [Redis缓存简单介绍](./docs/database/Redis/redis%E7%BC%93%E5%AD%98%E7%AC%94%E8%AE%B0.md)
 
 # JVM
 - [类文件结构详解](./docs/jvm/class-file-structure.md)
