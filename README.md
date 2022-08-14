@@ -5,16 +5,40 @@
 
 ## 基础&新特性
 
+- [final,static,this,super 关键字总结](./docs/basic/java-keyword-summary.md)
 - [Java基础常见知识点&面试题总结(1)](./docs/basic/java-basic-01.md) <br>
 - [Java基础常见知识点&面试题总结(2)](./docs/basic/java-basic-02.md) <br>
 - [Java基础常见知识点&面试题总结(3)](./docs/basic/java-basic-03.md) <br>
 
+- [Java8 新特性实战](./docs/basic/java8-common-new-features.md)
+- [《Java8指南》中文翻译](./docs/basic/java8-tutorial-translate.md)
 - [Java8新特性](./docs/basic/java-8.md) <br>
 - [Java9新特性](./docs/basic/java9.md) <br>
 - [Java10新特性](./docs/basic/java10.md) <br>
 - [Java11新特性](./docs/basic/java11.md) <br>
 - [Java12和13新特性](./docs/basic/java12-13.md) <br>
 - [Java14和15新特性](./docs/basic/java14-15.md) <br>
+- [Java16新特性](./docs/basic/java16.md) <br>
+
+- [Java IO基础知识总结](./docs/java/io/io-basis.md)
+- [Java IO设计模式总结](./docs/java/io/io-design-patterns.md)
+- [Java IO模型详解](./docs/java/io/io-model.md)
+
+## 系统设计
+
+- [J2EE基础知识](./docs/system-design/J2EE%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+
+- [Java 定时任务详解](./docs/system-design/schedule-task.md)
+
+- [JWT 基础概念详解](./docs/system-design/security/jwt-intro.md)
+
+- [敏感词过滤](./docs/system-design/security/sentive-words-filter.md)
+
+- [SSO 单点登录](./docs/system-design/security/sso-intro.md)
+
+- [认证授权基础概念详解](./docs/system-design/security/basis-of-authority-certification.md)
+
+- [JWT 身份认证优缺点分析](./docs/system-design/security/advantages&disadvantages-of-jwt.md)
 
 ## 集合
 
@@ -30,13 +54,25 @@
 
 ## 重要知识点
 
-- [反射机制](./docs/basic/反射机制.md) <br>
+<!-- - [反射机制](./docs/basic/反射机制.md) <br> -->
 
-- [为什么Java中只有值传递](./docs/basic/为什么Java中只有值传递.md) <br>
+<!-- - [为什么Java中只有值传递](./docs/basic/为什么Java中只有值传递.md) <br> -->
+
+- [为什么 Java 中只有值传递？](./docs/basic/why-there-only-value-passing-in-java.md)
 
 - [算法篇：二分查找、排序、设计模式等](./docs/basic/%E5%9F%BA%E7%A1%80%E7%AF%87%E8%AE%B2%E4%B9%89.md) <br>
 
-- [BigDecimal解决浮点数运算精度丢失问题](./docs/basic/BigDecimal解决浮点数运算精度丢失问题.md) <br>
+- [BigDecimal解决浮点数运算精度丢失问题](./docs/basic/bigdecimal.md) <br>
+
+- [Java 代理模式详解](./docs/basic/proxy.md)
+
+- [Java 反射机制详解](./docs/basic/reflection.md)
+
+- [Java 序列化详解](./docs/basic/serialization.md)
+
+- [Java SPI 机制详解](./docs/basic/spi.md)
+
+- [Java 魔法类 Unsafe 详解](./docs/basic/unsafe.md)
 
 ## 常用框架
 ### Mybatis
@@ -48,15 +84,29 @@
 
 - [Spring常见问题总结](./docs/service/spring/spring-knowledge-and-questions-summary.md) <br>
 
-- [SpringBoot常用注解总结](./docs/basic/SpringBoot常用注解总结.md) <br>
+<!-- - [SpringBoot常用注解总结](./docs/basic/SpringBoot常用注解总结.md) <br> -->
 
-- [SpringBoot自动装配原理](./docs/basic/SpringBoot自动装配原理.md) <br>
+<!-- - [SpringBoot自动装配原理](./docs/basic/SpringBoot自动装配原理.md) <br> -->
 
 - [Spring事务总结](./docs/basic/Spring事务总结.md) <br>
 
 - [Spring设计模式总结](./docs/basic/Spring设计模式总结.md) <br>
 
+- [SpringBoot 自动装配原理详解](./docs/system-design/framework/spring/spring-boot-auto-assembly-principles.md) <br>
+
+- [Spring&SpringBoot常用注解总结](./docs/system-design/framework/spring/spring-common-annotations.md) <br>
+
+- [Spring 中的设计模式详解](./docs/system-design/framework/spring/spring-design-patterns-summary.md) <br>
+
+- [Spring 常见面试题总结](./docs/system-design/framework/spring/spring-knowledge-and-questions-summary.md) <br>
+
+- [Spring 事务详解](./docs/system-design/framework/spring/spring-transaction.md) <br>
+
 ### SpringCloud
+
+- [何为网关？为什么要网关？](./docs/distributed-system/api-gateway.md) <br>
+
+- [分布式 ID](./docs/distributed-system/distributed-id.md) <br>
 
 - [SpringCloud入门](./docs/service/springcloud/springcloud-intro.md) <br>
 
@@ -73,6 +123,23 @@
 - [微服务保护Sentinel](./docs/service/微服务保护.md) <br>
 
 - [Jmeter快速入门](./docs/service/Jmeter快速入门.md) <br>
+
+## Zookeeper
+
+- [ZooKeeper 实战](./docs/distributed-system/distributed-process-coordination/zookeeper/zookeeper-in-action.md) <br>
+
+- [ZooKeeper 相关概念总结(入门)](./docs/distributed-system/distributed-process-coordination/zookeeper/zookeeper-intro.md) <br>
+
+- [ZooKeeper 相关概念总结(进阶)](./docs/distributed-system/distributed-process-coordination/zookeeper/zookeeper-plus.md) 
+<br>
+
+## RPC
+
+- [Dubbo 常见面试题总结](./docs/distributed-system/rpc/dubbo.md) <br>
+
+- [有了 HTTP 协议，为什么还要有 RPC ？](./docs/distributed-system/rpc/http%26rpc.md) <br>
+
+- [RPC 基础常见面试题总结](./docs/distributed-system/rpc/rpc-intro.md)<br>
 
 ## 并发
 
@@ -210,9 +277,11 @@
  
 > [Gradle安装【Mac】](./docs/gradle/gradle-installl.md)
 
-# 前端
+# Elasticsearch
 
-正在更新中...
+- [安装Elasticsearch](./docs/es/%E5%AE%89%E8%A3%85elasticsearch.md)<br>
+
+- [Elasticsearch详解](./docs/es/%E5%88%86%E5%B8%83%E5%BC%8F%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E01.md)<br>
 
 # Linux
 
@@ -413,22 +482,29 @@ od36
 
 # 开源项目推荐
 
- - [JavaStudy](https://github.com/lzhjavagithub/JavaStudy)
- - [InterviewGuide](https://github.com/forthespada/InterviewGuide)
- - [若依](https://github.com/yangzongzhuan)
- - [Spring 系列教程](https://github.com/wuyouzhuguli/SpringAll)
- - [mall-swarm微服务商城系统](https://github.com/macrozheng/mall-swarm)
- - [微人事](https://github.com/lenve/vhr)
- - [云收藏 - 让收藏更简单](https://github.com/cloudfavorites/favorites-web)
- - [码问-论坛、问答系统](https://github.com/codedrinker/community)
- - [V部落](https://github.com/lenve/VBlog)
- - [博客系统](https://github.com/ZHENFENG13/My-Blog)
- - [学之思开源考试系统 - Postgresql版](https://gitee.com/mindskip/uexam)
- - [PassJava 学习教程](https://github.com/Jackson0714/PassJava-Platform)
-
-# 开发工具
-
-正在更新中...
+ - [JavaStudy](https://github.com/lzhjavagithub/JavaStudy) <br>
+ 
+ - [InterviewGuide](https://github.com/forthespada/InterviewGuide) <br>
+ 
+ - [若依](https://github.com/yangzongzhuan) <br>
+ 
+ - [Spring 系列教程](https://github.com/wuyouzhuguli/SpringAll) <br>
+ 
+ - [mall-swarm微服务商城系统](https://github.com/macrozheng/mall-swarm) <br>
+ 
+ - [微人事](https://github.com/lenve/vhr) <br>
+ 
+ - [云收藏 - 让收藏更简单](https://github.com/cloudfavorites/favorites-web) <br>
+ 
+ - [码问-论坛、问答系统](https://github.com/codedrinker/community) <br>
+ 
+ - [V部落](https://github.com/lenve/VBlog) <br>
+ 
+ - [博客系统](https://github.com/ZHENFENG13/My-Blog) <br>
+ 
+ - [学之思开源考试系统 - Postgresql版](https://gitee.com/mindskip/uexam) <br>
+ 
+ - [PassJava 学习教程](https://github.com/Jackson0714/PassJava-Platform) <br>
 
 # 关于作者
  - 普通开发者，热情的学习者，狂热的数码迷
