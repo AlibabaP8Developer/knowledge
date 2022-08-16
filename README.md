@@ -226,6 +226,9 @@
 
 - [Redis缓存简单介绍](./docs/database/Redis/redis%E7%BC%93%E5%AD%98%E7%AC%94%E8%AE%B0.md)
 
+- [Redis原理：Redis数据结构、Redis网络模型、Redis通信协议-RESP协议](./docs/database/Redis/%E5%8E%9F%E7%90%86%E7%AF%87.md)
+
+- [Redis高级最佳实践：Redis键值设计、批处理优化、服务器端优化-持久化配置｜慢查询优化｜命令及安全配置｜Redis内存划分和内存配置｜集群还是主从](./docs/database/Redis/Redis%E9%AB%98%E7%BA%A7%E7%AF%87%E4%B9%8B%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md)
 # JVM
 - [类文件结构详解](./docs/jvm/class-file-structure.md)
 
@@ -249,10 +252,6 @@
 - [读写分离&分库分表](./docs/high-mq/read-and-write-separation-and-library-subtable.md)
 
 - [负载均衡](./docs/high-mq/load-balancing.md)
-
-- [安装ElasticSearch](./docs/es/%E5%AE%89%E8%A3%85elasticsearch.md)
-
-- [ElasticSearch入门总结](./docs/es/%E5%88%86%E5%B8%83%E5%BC%8F%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E01.md)
 
 # 消息队列
 ## RabbitMQ
@@ -282,7 +281,7 @@
 
 
 # Gradle
- 
+
 > [Gradle安装【Mac】](./docs/gradle/gradle-installl.md)
 
 # Elasticsearch
@@ -290,6 +289,8 @@
 - [安装Elasticsearch](./docs/es/%E5%AE%89%E8%A3%85elasticsearch.md)<br>
 
 - [Elasticsearch详解](./docs/es/%E5%88%86%E5%B8%83%E5%BC%8F%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E01.md)<br>
+
+- [ElasticSearch入门总结](./docs/es/%E5%88%86%E5%B8%83%E5%BC%8F%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E01.md)
 
 # Linux
 
@@ -329,92 +330,175 @@
 
 > [Java学习路线图（2022版）](https://www.bilibili.com/read/cv9965357?spm_id_from=333.999.list.card_article.click)
 
-> [黑马程序员Java零基础视频教程(2022最新Java入门，含斯坦福大学练习题+力扣算法题+大厂Java面试题](https://www.bilibili.com/video/BV17F411T7Ao?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 黑马程序员Java零基础视频教程(2022最新Java入门，含斯坦福大学练习题+力扣算法题+大厂Java面试题
 
-> [黑马程序员2022最新SSM框架教程_Spring+SpringMVC+Maven高级+SpringBoot+Mybatis Plus企业实用高级开发技术](https://www.bilibili.com/video/BV1Fi4y1S7ix?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=298622138&bvid=BV17F411T7Ao&cid=774326404&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
 
-> [黑马程序员Redis入门到实战教程，全面透析redis底层原理+redis分布式锁+企业解决方案+Redis实战](https://www.bilibili.com/video/BV1cr4y1671t?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 黑马程序员2022最新SSM框架教程_Spring+SpringMVC+Maven高级+SpringBoot
 
-> [黑马程序员最新版JavaWeb基础教程，Java web从入门到企业实战完整版](https://www.bilibili.com/video/BV1Qf4y1T7Hx?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=553267404&bvid=BV1Fi4y1S7ix&cid=773754543&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
+
+> 黑马程序员Redis入门到实战教程，全面透析redis底层原理+redis分布式锁
+
+<iframe src="//player.bilibili.com/player.html?aid=766995956&bvid=BV1cr4y1671t&cid=784553075&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
+
+
 
 ### Java进阶
 
----
+> 黑马程序员SpringBoot2全套视频教程，springboot零基础到项目实战
 
-> [黑马程序员SpringBoot2全套视频教程，springboot零基础到项目实战](https://www.bilibili.com/video/BV15b4y1a7yG?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=633835873&bvid=BV15b4y1a7yG&cid=784672268&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
 
->  [SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，史上最全面的SpringCloud微服务技术栈课程](https://www.bilibili.com/video/BV1LQ4y127n4?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，史上最全面的SpringCloud微服务技术栈课程
 
->  [黑马程序员Spring视频教程，全面深度讲解spring5底层原理](https://www.bilibili.com/video/BV1P44y1N7QG?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=717242269&bvid=BV1LQ4y127n4&cid=770095979&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
 
->  [黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化](https://www.bilibili.com/video/BV1Kr4y1i7ru?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 黑马程序员Java项目实战《瑞吉外卖》，轻松掌握springboot + mybatis plus开发核心
 
->  [尚硅谷2022版JUC并发编程（对标阿里P6-P7）](https://www.bilibili.com/video/BV1ar4y1x727?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=213091208&bvid=BV13a411q753&cid=771181382&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
->  [黑马程序员Java设计模式详解，全网最全23种Java设计模式](https://www.bilibili.com/video/BV1Np4y1z7BU?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 黑马程序员Java品达通用权限项目，基于SpringCloud SpringBoot 的微服务框架
 
->  [黑马程序员Nginx教程，Java进阶从0到1学会Nginx分布式框架](https://www.bilibili.com/video/BV1ov41187bq?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=333699189&bvid=BV1tw411f79E&cid=354681787&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
-> [黑马程序员Netty全套教程，全网最全Netty深入浅出教程，Java网络编程的王者](https://www.bilibili.com/video/BV1py4y1E7oA?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 黑马程序员Java设计模式详解，全网最全23种Java设计模式
 
-> [尚硅谷Sharding Sphere，Sharding JDBC，分库分表利器，数据库中间件](https://www.bilibili.com/video/BV1LK411s7RX?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=970482222&bvid=BV1Np4y1z7BU&cid=262371151&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 黑马程序员Nginx教程，Java进阶从0到1学会Nginx分布式框架
+
+<iframe src="//player.bilibili.com/player.html?aid=247400507&bvid=BV1ov41187bq&cid=317727001&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 尚硅谷Sharding Sphere，Sharding JDBC，分库分表利器，数据库中间件
+
+<iframe src="//player.bilibili.com/player.html?aid=498278570&bvid=BV1LK411s7RX&cid=257328010&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括
+
+<iframe src="//player.bilibili.com/player.html?aid=765670802&bvid=BV1Kr4y1i7ru&cid=772184762&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
+
+> 黑马程序员Spring视频教程，全面深度讲解spring5底层原理
+
+<iframe src="//player.bilibili.com/player.html?aid=979948899&bvid=BV1P44y1N7QG&cid=557659779&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
+
+> 黑马程序员Java百度地图全套教程，从Java地图基础API到实战案例应用
+
+<iframe src="//player.bilibili.com/player.html?aid=555758074&bvid=BV1ue4y1R712&cid=769976750&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
+
+> 【尚硅谷&腾讯云】Java项目硅谷课堂丨微服务丨在线学习平台
+
+<iframe src="//player.bilibili.com/player.html?aid=470376996&bvid=BV13T411372x&cid=757931203&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 【尚硅谷】微信支付&支付宝支付，一套搞定Java在线支付开发教程
+
+<iframe src="//player.bilibili.com/player.html?aid=722266487&bvid=BV1US4y1D77m&cid=586056536&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ### Java面试相关
 
 ---
 
->  [Java八股文面试题视频教程，Java面试八股文宝典（含阿里、腾迅大厂java面试真题、Java并发、Java数据结构、JVM等最新Java面试真题](https://www.bilibili.com/video/BV15b4y117RJ?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> Java八股文面试题视频教程，Java面试八股文宝典（含阿里、腾迅大厂java面试真题、Java并发、Java数据结构、JVM等最新Java面试真题
+
+<iframe src="//player.bilibili.com/player.html?aid=633264342&bvid=BV15b4y117RJ&cid=800246207&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
 
 
 ## 大数据
 
 ---
 
->  [尚硅谷大数据Hadoop教程（Hadoop 3.x安装搭建到集群调优）](https://www.bilibili.com/video/BV1Qp4y1n7EN?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 尚硅谷大数据Hadoop教程（Hadoop 3.x安装搭建到集群调优）
 
->  [尚硅谷HBase2.x教程（2022新版，一套全面掌握hbase）](https://www.bilibili.com/video/BV1PZ4y1i7gZ?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=971812826&bvid=BV1Qp4y1n7EN&cid=302496809&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
->  [尚硅谷Kafka3.x教程（2022版，从入门到调优，深入全面）](https://www.bilibili.com/video/BV1vr4y1677k?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 尚硅谷HBase2.x教程（2022新版，一套全面掌握hbase）
+
+<iframe src="//player.bilibili.com/player.html?aid=385246655&bvid=BV1PZ4y1i7gZ&cid=751912424&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 尚硅谷Kafka3.x教程（2022版，从入门到调优，深入全面）
+
+<iframe src="//player.bilibili.com/player.html?aid=766541848&bvid=BV1vr4y1677k&cid=509967785&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 尚硅谷大数据之Flink实时数仓3.0，数据仓库项目实战教程
+
+<iframe src="//player.bilibili.com/player.html?aid=429108720&bvid=BV1TG411a7nL&cid=791202042&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
 ## 前端
 
 ---
 
->  [最新前端开发入门教程，web前端零基础html5 +css3+前端项目视频教程](https://www.bilibili.com/video/BV1Kg411T7t9?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 最新前端开发入门教程，web前端零基础html5 +css3+前端项目视频教程
 
->  [黑马程序员前端微信小程序开发教程，微信小程序从基础到发布全流程](https://www.bilibili.com/video/BV1834y1676P?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=506678073&bvid=BV1Kg411T7t9&cid=773703891&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
->  [尚硅谷2022版Webpack5入门到原理（面试开发一条龙）](https://www.bilibili.com/video/BV14T4y1z7sw?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 黑马程序员前端微信小程序开发教程，微信小程序从基础到发布全流程
 
->  [黑马程序员Node.js全套入门教程，nodejs最新教程含es6模块化+npm+express+webpack+promise等-NodeJs实战案例详解](https://www.bilibili.com/video/BV1a34y167AZ?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=807451085&bvid=BV1834y1676P&cid=783331867&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
->  [黑马程序员Vue全套视频教程，从vue2.0到vue3.0一套全覆盖，前端必会的框架教程](https://www.bilibili.com/video/BV1zq4y1p7ga?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 尚硅谷2022版Webpack5入门到原理（面试开发一条龙
 
->  [尚硅谷Vue2.0+Vue3.0全套教程丨vuejs从入门到精通](https://www.bilibili.com/video/BV1Zy4y1K7SH?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=939218689&bvid=BV14T4y1z7sw&cid=722959391&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
->  [尚硅谷VUE项目实战，前端项目-尚品汇(大型\重磅)](https://www.bilibili.com/video/BV1Vf4y1T7bw?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 黑马程序员Node.js全套入门教程，nodejs最新教程含es6模块化+npm+express+webpack+promise等-NodeJs实战案例详解
+
+<iframe src="//player.bilibili.com/player.html?aid=807488433&bvid=BV1a34y167AZ&cid=773929334&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 黑马程序员Vue全套视频教程，从vue2.0到vue3.0一套全覆盖，前端必会的框架教程
+
+<iframe src="//player.bilibili.com/player.html?aid=547086864&bvid=BV1zq4y1p7ga&cid=770070034&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+尚硅谷Vue2.0+Vue3.0全套教程丨vuejs从入门到精通
+
+<iframe src="//player.bilibili.com/player.html?aid=804122638&bvid=BV1Zy4y1K7SH&cid=377282828&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 尚硅谷VUE项目实战，前端项目-尚品汇(大型\重磅)
+
+<iframe src="//player.bilibili.com/player.html?aid=379566317&bvid=BV1Vf4y1T7bw&cid=451795535&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ## iOS
 
-> [iOS开发基础班+就业班（100天完整版）之基础班2：Objective-C学习（10天）](https://www.bilibili.com/video/BV1NJ411T78u?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> iOS开发基础班+就业班（100天完整版）之基础班2：Objective-C学习（10天）
 
-> [iOS开发基础班+就业班（100天完整版）之就业班4：网络通信（8天）](https://www.bilibili.com/video/BV14J411T7cQ?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=69033036&bvid=BV1NJ411T78u&cid=119635315&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
-> [iOS开发基础班+就业班（100天完整版）之就业班3：多线程实战（4天）](https://www.bilibili.com/video/BV1sJ411T7Np?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> iOS开发基础班+就业班（100天完整版）之就业班4：网络通信（8天）
 
-> [iOS开发基础班+就业班（100天完整版）之就业班6：知识拓展（11天）](https://www.bilibili.com/video/BV1tJ411T7TL?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=69096071&bvid=BV14J411T7cQ&cid=119749448&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
-> [iOS开发基础班+就业班（100天完整版）之就业班1：UI基础（10天）](https://www.bilibili.com/video/BV1EJ411T7At?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> iOS开发基础班+就业班（100天完整版）之就业班3：多线程实战（4天）
 
-> [iOS开发基础班+就业班（100天完整版）之就业班2：UI进阶（14天）](https://www.bilibili.com/video/BV1bJ411T7fj?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=69093435&bvid=BV1sJ411T7Np&cid=119744302&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
-> [iOS开发基础班+就业班（100天完整版）之就业班7：iPad开发（6天）](https://www.bilibili.com/video/BV1tJ411T7LL?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> iOS开发基础班+就业班（100天完整版）之就业班6：知识拓展（11天）
+
+<iframe src="//player.bilibili.com/player.html?aid=69099618&bvid=BV1tJ411T7TL&cid=119758331&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> iOS开发基础班+就业班（100天完整版）之就业班1：UI基础（10天）
+
+<iframe src="//player.bilibili.com/player.html?aid=69073218&bvid=BV1EJ411T7At&cid=119701803&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> iOS开发基础班+就业班（100天完整版）之就业班2：UI进阶（14天）
+
+<iframe src="//player.bilibili.com/player.html?aid=69077481&bvid=BV1bJ411T7fj&cid=119707012&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> iOS开发基础班+就业班（100天完整版）之就业班7：iPad开发（6天）
+
+<iframe src="//player.bilibili.com/player.html?aid=69100114&bvid=BV1tJ411T7LL&cid=119759019&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 
 ## 英语学习
 
----
+> 英语语法精讲合集 (全面, 通俗, 有趣 | 从零打造系统语法体系)
 
->  [英语兔](https://space.bilibili.com/483162496/channel/series)
+<iframe src="//player.bilibili.com/player.html?aid=255311341&bvid=BV1XY411J7aG&cid=564348808&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500"> </iframe>
+
+> 英语语法: 16种时态终极详解 (合集)(看完就懂)
+
+<iframe src="//player.bilibili.com/player.html?aid=244371498&bvid=BV1Sv411y7d8&cid=226146531&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500"> </iframe>
+
+> 一个合集搞定非谓语动词: 不定式, 动名词, 现在分词, 过去分词
+
+<iframe src="//player.bilibili.com/player.html?aid=373129141&bvid=BV1YZ4y1g7mE&cid=268490026&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500"> </iframe>
 
 ## 网盘资源
 
@@ -466,15 +550,21 @@ od36
 
 ---
 
->  [《论语》心得](https://www.bilibili.com/video/BV1jb411h7q2?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 《论语》心得
+
+<iframe src="//player.bilibili.com/player.html?aid=44334814&bvid=BV1jb411h7q2&cid=77631025&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ## 大学公开课
 
 ---
 
-> [数据结构-浙江大学](https://www.bilibili.com/video/BV1JW411i731?spm_id_from=333.999.0.0&vd_source=499cbc90089ffede10f01ef930ae618a)
+> 数据结构-浙江大学
 
-> [王道计算机考研 计算机组成原理](https://www.bilibili.com/video/BV1BE411D7ii?p=4&vd_source=499cbc90089ffede10f01ef930ae618a)
+<iframe src="//player.bilibili.com/player.html?aid=18586085&bvid=BV1JW411i731&cid=30323260&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 王道计算机考研 计算机组成原理
+
+<iframe src="//player.bilibili.com/player.html?aid=70211798&bvid=BV1BE411D7ii&cid=223416445&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 # 软考高级
 
@@ -491,27 +581,27 @@ od36
 # 开源项目推荐
 
  - [JavaStudy](https://github.com/lzhjavagithub/JavaStudy) <br>
- 
+
  - [InterviewGuide](https://github.com/forthespada/InterviewGuide) <br>
- 
+
  - [若依](https://github.com/yangzongzhuan) <br>
- 
+
  - [Spring 系列教程](https://github.com/wuyouzhuguli/SpringAll) <br>
- 
+
  - [mall-swarm微服务商城系统](https://github.com/macrozheng/mall-swarm) <br>
- 
+
  - [微人事](https://github.com/lenve/vhr) <br>
- 
+
  - [云收藏 - 让收藏更简单](https://github.com/cloudfavorites/favorites-web) <br>
- 
+
  - [码问-论坛、问答系统](https://github.com/codedrinker/community) <br>
- 
+
  - [V部落](https://github.com/lenve/VBlog) <br>
- 
+
  - [博客系统](https://github.com/ZHENFENG13/My-Blog) <br>
- 
+
  - [学之思开源考试系统 - Postgresql版](https://gitee.com/mindskip/uexam) <br>
- 
+
  - [PassJava 学习教程](https://github.com/Jackson0714/PassJava-Platform) <br>
 
 # 关于作者
