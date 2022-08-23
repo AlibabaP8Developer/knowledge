@@ -127,11 +127,8 @@
 ## Zookeeper
 
 - [ZooKeeper 实战](./docs/distributed-system/distributed-process-coordination/zookeeper/zookeeper-in-action.md) <br>
-
 - [ZooKeeper 相关概念总结(入门)](./docs/distributed-system/distributed-process-coordination/zookeeper/zookeeper-intro.md) <br>
-
 - [ZooKeeper 相关概念总结(进阶)](./docs/distributed-system/distributed-process-coordination/zookeeper/zookeeper-plus.md) 
-<br>
 
 ## RPC
 
@@ -175,6 +172,8 @@
 
 - [Netty 优化与源码](./docs/netty/Netty04-%E4%BC%98%E5%8C%96%E4%B8%8E%E6%BA%90%E7%A0%81.md)
 
+
+
 # 数据库
 
 ## MySQl
@@ -204,6 +203,7 @@
 - [MySQL安装](./docs/database/mysql/mysql-install.md)
 
 - [MySQL备份与恢复](./docs/database/mysql/mysql-bak.md)
+
 ## Redis
 
 - [3种常用的缓存读写策略](./docs/database/Redis/3-commonly-used-cache-read-and-write-strategies.md)
@@ -229,7 +229,13 @@
 - [Redis原理：Redis数据结构、Redis网络模型、Redis通信协议-RESP协议](./docs/database/Redis/%E5%8E%9F%E7%90%86%E7%AF%87.md)
 
 - [Redis高级最佳实践：Redis键值设计、批处理优化、服务器端优化-持久化配置｜慢查询优化｜命令及安全配置｜Redis内存划分和内存配置｜集群还是主从](./docs/database/Redis/Redis%E9%AB%98%E7%BA%A7%E7%AF%87%E4%B9%8B%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md)
+
+- [基础篇Redis、初始Redis、Redis常见命令、Redis的Java客户端-Jedis、Redis的Java客户端-SpringDataRedis](./docs/database/Redis/redis/Redis.md)
+
+- [Redis快速入门、Redis常见命令、Redis的Java客户端](./docs/database/Redis/redis/01.%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.md)
+
 # JVM
+
 - [类文件结构详解](./docs/jvm/class-file-structure.md)
 
 - [类加载过程详解](./docs/jvm/class-loading-process.md)
@@ -248,12 +254,17 @@
 
 - [Java 内存区域详解](./docs/jvm/memory-area.md)
 
+  <iframe src="//player.bilibili.com/player.html?aid=83622425&bvid=BV1PJ411n7xZ&cid=143045740&page=28" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
 # 高性能
 - [读写分离&分库分表](./docs/high-mq/read-and-write-separation-and-library-subtable.md)
 
 - [负载均衡](./docs/high-mq/load-balancing.md)
 
+
+
 # 消息队列
+
 ## RabbitMQ
 - [RabbitMQ 入门总结(1)](./docs/high-mq/RabbitMQ.md)
 
@@ -273,6 +284,8 @@
 
 - [RocketMQ常见问题](./docs/high-mq/message-queue/rocketmq-questions.md.md)
 
+
+
 # 版本控制
 
 ## Git
@@ -284,6 +297,8 @@
 
 > [Gradle安装【Mac】](./docs/gradle/gradle-installl.md)
 
+<iframe src="//player.bilibili.com/player.html?aid=470457438&bvid=BV1yT41137Y7&cid=759661321&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
 # Elasticsearch
 
 - [安装Elasticsearch](./docs/es/%E5%AE%89%E8%A3%85elasticsearch.md)<br>
@@ -292,11 +307,15 @@
 
 - [ElasticSearch入门总结](./docs/es/%E5%88%86%E5%B8%83%E5%BC%8F%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E01.md)
 
+
+
 # Linux
 
 > [Linux常用命令](./docs/linux/Linux常用命令.md) <br>
 
 > [Linux配置JDK](./docs/linux/Linux%E9%85%8D%E7%BD%AEJDK.md)
+
+
 
 # Nginx
 
@@ -312,6 +331,8 @@
 
 > [Nginx安装和配置https精简实用版](./docs/nginx/nginx.md)
 
+
+
 # Docker
 
 > [docker安装1](./docs/docker/docker-install-1.md)
@@ -320,8 +341,9 @@
 
 > [docker实用操作](./docs/docker/docker-use.md)
 
+
+
 # 学习视频推荐
-<!-- tabs:start -->
 
 ## Java
 ### Java基础
@@ -342,8 +364,6 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=766995956&bvid=BV1cr4y1671t&cid=784553075&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
 
-
-
 ### Java进阶
 
 > 黑马程序员SpringBoot2全套视频教程，springboot零基础到项目实战
@@ -353,14 +373,6 @@
 > SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，史上最全面的SpringCloud微服务技术栈课程
 
 <iframe src="//player.bilibili.com/player.html?aid=717242269&bvid=BV1LQ4y127n4&cid=770095979&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
-
-> 黑马程序员Java项目实战《瑞吉外卖》，轻松掌握springboot + mybatis plus开发核心
-
-<iframe src="//player.bilibili.com/player.html?aid=213091208&bvid=BV13a411q753&cid=771181382&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-> 黑马程序员Java品达通用权限项目，基于SpringCloud SpringBoot 的微服务框架
-
-<iframe src="//player.bilibili.com/player.html?aid=333699189&bvid=BV1tw411f79E&cid=354681787&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 > 黑马程序员Java设计模式详解，全网最全23种Java设计模式
 
@@ -386,13 +398,31 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=555758074&bvid=BV1ue4y1R712&cid=769976750&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
 
-> 【尚硅谷&腾讯云】Java项目硅谷课堂丨微服务丨在线学习平台
-
-<iframe src="//player.bilibili.com/player.html?aid=470376996&bvid=BV13T411372x&cid=757931203&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
 > 【尚硅谷】微信支付&支付宝支付，一套搞定Java在线支付开发教程
 
 <iframe src="//player.bilibili.com/player.html?aid=722266487&bvid=BV1US4y1D77m&cid=586056536&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+>云原生Java架构师的第一课K8s+Docker+KubeSphere+DevOps
+
+<iframe src="//player.bilibili.com/player.html?aid=718216771&bvid=BV13Q4y1C7hS&cid=415333708&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+### Java项目实战
+
+> 黑马程序员Java企业级项目《集信达短信平台》，从零打造高可用、大吞吐Java企业级短信平台解决方案
+
+<iframe src="//player.bilibili.com/player.html?aid=631037647&bvid=BV1Jb4y1d7GY&cid=351463805&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 黑马程序员Java项目实战《瑞吉外卖》，轻松掌握springboot + mybatis plus开发核心
+
+<iframe src="//player.bilibili.com/player.html?aid=213091208&bvid=BV13a411q753&cid=771181382&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 黑马程序员Java品达通用权限项目，基于SpringCloud SpringBoot 的微服务框架
+
+<iframe src="//player.bilibili.com/player.html?aid=333699189&bvid=BV1tw411f79E&cid=354681787&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 【尚硅谷&腾讯云】Java项目硅谷课堂丨微服务丨在线学习平台
+
+<iframe src="//player.bilibili.com/player.html?aid=470376996&bvid=BV13T411372x&cid=757931203&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ### Java面试相关
 
@@ -422,6 +452,38 @@
 > 尚硅谷大数据之Flink实时数仓3.0，数据仓库项目实战教程
 
 <iframe src="//player.bilibili.com/player.html?aid=429108720&bvid=BV1TG411a7nL&cid=791202042&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+## Python
+
+> 黑马程序员最新Python教程，8天python从入门到精通，学python看这套就够了
+
+<iframe src="//player.bilibili.com/player.html?aid=941747210&bvid=BV1qW4y1a7fU&cid=800522935&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 黑马程序员全套Python教程_Python基础入门视频教程，零基础小白自学Python必备教程
+
+<iframe src="//player.bilibili.com/player.html?aid=54728208&bvid=BV1o4411M71o&cid=95689013&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 尚硅谷Python爬虫教程小白零基础速通（含python基础+爬虫案例）
+
+<iframe src="//player.bilibili.com/player.html?aid=632685046&bvid=BV1Db4y1m7Ho&cid=400237926&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+## Golang
+
+> 【尚硅谷】Golang入门到实战教程丨一套精通GO语言
+
+<iframe src="//player.bilibili.com/player.html?aid=73576628&bvid=BV1ME411Y71o&cid=260129252&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 黑马程序员20个小时快速入门go语言（上）
+
+<iframe src="//player.bilibili.com/player.html?aid=20432910&bvid=BV1UW411x7v2&cid=33396781&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 20个小时快速入门go语言（中）
+
+<iframe src="//player.bilibili.com/player.html?aid=20434140&bvid=BV1UW411x7Ve&cid=33402330&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 黑马程序员20个小时快速入门go语言（下）
+
+<iframe src="//player.bilibili.com/player.html?aid=20466109&bvid=BV17W411W7hm&cid=33458228&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ## 前端
 
@@ -455,6 +517,10 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=379566317&bvid=BV1Vf4y1T7bw&cid=451795535&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
+> 【尚硅谷】前端项目-尚优选（HTML/CSS/JS技术综合实战）
+
+<iframe src="//player.bilibili.com/player.html?aid=258060646&bvid=BV1ra411X7RX&cid=764078154&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
 ## iOS
 
 > iOS开发基础班+就业班（100天完整版）之基础班2：Objective-C学习（10天）
@@ -485,6 +551,35 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=69100114&bvid=BV1tJ411T7LL&cid=119759019&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
+## .Net
+
+> 1..Net全套就业视频教程之DotNet基础加强
+
+<iframe src="//player.bilibili.com/player.html?aid=9015407&bvid=BV1jx411C7c4&cid=14887709&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 2..Net全套就业视频教程之数据库开发及ADO.NET
+
+<iframe src="//player.bilibili.com/player.html?aid=9015436&bvid=BV1Lx411C7fD&cid=14887773&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 6..Net全套就业视频教程之简单三层架构
+
+<iframe src="//player.bilibili.com/player.html?aid=9032502&bvid=BV13x411C7W3&cid=14918187&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 8..Net全套就业视频教程之Asp.Net
+
+<iframe src="//player.bilibili.com/player.html?aid=9049940&bvid=BV1xx411C76H&cid=14948960&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 9..Net全套就业视频教程之在线图书商城项目
+
+<iframe src="//player.bilibili.com/player.html?aid=9049953&bvid=BV1xx411C7rK&cid=14948978&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 亲情奉献全套精品.Net基础视频教程（1-9）
+
+<iframe src="//player.bilibili.com/player.html?aid=8915750&bvid=BV1yx411k7VT&cid=14714630&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 亲情奉献全套精品.Net基础视频教程之（11-15）
+
+<iframe src="//player.bilibili.com/player.html?aid=8998358&bvid=BV1fx411k77o&cid=14857685&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ## 英语学习
 
@@ -566,6 +661,8 @@ od36
 
 <iframe src="//player.bilibili.com/player.html?aid=70211798&bvid=BV1BE411D7ii&cid=223416445&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
+
+
 # 软考高级
 
 ## 系统架构设计师
@@ -577,6 +674,8 @@ od36
 > [计算机系统基础练习题（1）](./docs/soft-exam-high/%E8%BD%AF%E8%80%83%E9%AB%98%E7%BA%A7-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80.md)
 
 > [计算机系统基础练习题（2）](./docs/soft-exam-high/%E8%BD%AF%E4%BB%B6%E9%AB%98%E7%BA%A7-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%802.md)
+
+
 
 # 开源项目推荐
 
@@ -604,7 +703,10 @@ od36
 
  - [PassJava 学习教程](https://github.com/Jackson0714/PassJava-Platform) <br>
 
+
+
 # 关于作者
+
  - 普通开发者，热情的学习者，狂热的数码迷
  - 90后，普通本科毕业于北京理工大学软件工程专业，现从事软件类工作
  - 目前在京城独自漂泊，天天被项目折腾得死去活来的同时依然保有对各项技术热忱的追求
