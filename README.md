@@ -21,7 +21,9 @@
 - [Java16新特性](./docs/basic/java16.md) <br>
 
 - [Java IO基础知识总结](./docs/java/io/io-basis.md)
+
 - [Java IO设计模式总结](./docs/java/io/io-design-patterns.md)
+
 - [Java IO模型详解](./docs/java/io/io-model.md)
 
 ## 系统设计
@@ -62,6 +64,12 @@
 
 - [算法篇：二分查找、排序、设计模式等](./docs/basic/%E5%9F%BA%E7%A1%80%E7%AF%87%E8%AE%B2%E4%B9%89.md) <br>
 
+- [并发篇：线程状态、线程池、ThreadLocal等](./docs/basic/%E5%B9%B6%E5%8F%91%E7%AF%87%E8%AE%B2%E4%B9%89.md)
+
+- [JVM篇：JVM 内存结构、JVM 内存参数、JVM 垃圾回收、内存溢出、类加载、四种引用、finalize](./docs/jvm/%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%AF%87%E8%AE%B2%E4%B9%89.md)
+
+- [Spring框架篇](./docs/collection/%E6%A1%86%E6%9E%B6%E7%AF%87%E8%AE%B2%E4%B9%89.md)
+
 - [BigDecimal解决浮点数运算精度丢失问题](./docs/basic/bigdecimal.md) <br>
 
 - [Java 代理模式详解](./docs/basic/proxy.md)
@@ -80,6 +88,7 @@
 - [MyBatis 常见面试总结](./docs/service/mybatis/mybatis-interview.md) <br>
 
 ### Spring
+
 - [Spring事务总结](./docs/service/spring/spring-transaction.md) <br>
 
 - [Spring常见问题总结](./docs/service/spring/spring-knowledge-and-questions-summary.md) <br>
@@ -151,8 +160,6 @@
 - [Java 并发常见知识点&面试题总结（基础篇）](./docs/concurrent/java-concurrent-questions-01.md)
 
 - [Java 并发常见知识点&面试题总结（进阶篇）](./docs/concurrent/java-concurrent-questions-02.md)
-
-- [Java 并发常见知识点](./docs/basic/%E5%B9%B6%E5%8F%91%E7%AF%87%E8%AE%B2%E4%B9%89.md)
 
 - [Java 线程池最佳实践](./docs/concurrent/java-thread-pool-best-practices.md)
 
