@@ -9,6 +9,12 @@ Mac：
 ```java
 vim ~/.bash_profile
 
+GRADLE_HOME=/Users/lizhenghang/dev/gradle-7.1
+
+export GRADLE_HOME
+
+export PATH=$PATH:$GRADLE_HOME/bin
+
 source ~/.bash_profile
 
 gradle -v

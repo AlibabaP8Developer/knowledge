@@ -70,6 +70,7 @@
    - [**JavaGuide**](https://javaguide.cn)
    - [**菜鸟教程**](https://www.runoob.com)
    - [**吴师兄学算法**](https://blog.algomooc.com)
+   - [**HuTool**](https://hutool.cn/)
 
 - 开源项目推荐
     - [**JavaStudy**](https://github.com/lzhjavagithub/JavaStudy)

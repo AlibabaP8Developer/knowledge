@@ -54,6 +54,15 @@
 
 - [ArrayList源码&扩容机制分析](./docs/collection/arraylist-source-code.md)
 
+## 设计模式
+
+- [设计模式概述、UML图、类图、软件设计原则、创建型模式-单例模式](./docs/design-pattern/day1/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day01.md)
+- [创建型模式：工厂/原型/建造者模式](./docs/design-pattern/day2/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day02.md)
+- [结构型模式：代理/适配器/装饰者/桥接/外观模式](./docs/design-pattern/day3/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day03.md)
+- [结构型模式：组合/享元模式|行为型模式：模板方法/策略/命令/责任链模式](./docs/design-pattern/day4/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day04.md)
+- [行为型模式：状态/观察者/中介者/迭代器/访问者/备忘录模式](./docs/design-pattern/day5/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day05.md)
+- [行为型模式：解释器模式|自定义Spring框架](./docs/design-pattern/day6/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day06.md)
+
 ## 重要知识点
 
 <!-- - [反射机制](./docs/basic/反射机制.md) <br> -->
