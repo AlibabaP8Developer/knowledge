@@ -1,6 +1,17 @@
-- 博大精深的国学
+- 找资源网站
+   - [瑞客论坛](https://www.ruike1.com/)
+   - [网盘资源社](https://www.wpzys.com/)
+- 教育网站
+   - [中小学智慧教育平台](https://www.zxx.edu.cn/)
+   - [中国大学MOOC](https://www.icourse163.org/)
+   - [中国计算机技术职业资格网](https://www.ruankao.org.cn/)
+   - [51CTO](https://edu.51cto.com/)
+   - [力扣](https://leetcode.cn/)
+- 四库全书
    - [古诗文网](https://www.gushiwen.cn/)
    - [论语网](http://www.lunyu8.cn/)
+   - [识典古籍](https://www.shidianguji.com/)
+   - [汉典重光](https://wenyuan.aliyun.com/home)
 
 - 开发必备
    - [**在线JSON工具(1)**](https://www.bejson.com/)
@@ -71,6 +82,7 @@
    - [**菜鸟教程**](https://www.runoob.com)
    - [**吴师兄学算法**](https://blog.algomooc.com)
    - [**HuTool**](https://hutool.cn/)
+   - [Hello算法](https://www.hello-algo.com/)
 
 - 开源项目推荐
     - [**JavaStudy**](https://github.com/lzhjavagithub/JavaStudy)

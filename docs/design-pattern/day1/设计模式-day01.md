@@ -294,8 +294,8 @@ public class RectangleDemo {
 
 如何改进呢？此时我们需要重新设计他们之间的关系。抽象出来一个四边形接口(Quadrilateral)，让Rectangle类和Square类实现Quadrilateral接口
 
-<img src="./img/正方形不是长方形改进.png" style="zoom:80%;" />
-
+<!-- <img src="./img/正方形不是长方形改进.png" style="zoom:80%;" /> -->
+![](./img/%E6%AD%A3%E6%96%B9%E5%BD%A2%E4%B8%8D%E6%98%AF%E9%95%BF%E6%96%B9%E5%BD%A2%E6%94%B9%E8%BF%9B.png)
 
 
 ## 3.3 依赖倒转原则
@@ -310,7 +310,8 @@ public class RectangleDemo {
 
 **类图如下：**
 
-<img src="./img/依赖倒转原则.png" style="zoom:80%;" />
+<!-- <img src="./img/依赖倒转原则.png" style="zoom:80%;" />÷ -->
+![](./img/%E4%BE%9D%E8%B5%96%E5%80%92%E8%BD%AC%E5%8E%9F%E5%88%99.png)
 
 代码如下：
 
@@ -420,7 +421,8 @@ public class TestComputer {
 
 **类图如下：**
 
-<img src="img/依赖倒转原则改进.png" alt="image-20191229173554296" style="zoom:70%;" />
+<!-- <img src="img/依赖倒转原则改进.png" alt="image-20191229173554296" style="zoom:70%;" /> -->
+![](./img/%E4%BE%9D%E8%B5%96%E5%80%92%E8%BD%AC%E5%8E%9F%E5%88%99%E6%94%B9%E8%BF%9B.png)
 
 **电脑（Computer）：**
 
@@ -560,7 +562,8 @@ public class ItcastSafetyDoor implements AntiTheft,Fireproof {
 
 类图如下：
 
-<img src="img/迪米特法则.png" alt="image-20191229173554296" style="zoom:80%;" />
+<!-- <img src="img/迪米特法则.png" alt="image-20191229173554296" style="zoom:80%;" /> -->
+![](./img/%E8%BF%AA%E7%B1%B3%E7%89%B9%E6%B3%95%E5%88%99.png)
 
 代码如下：
 
@@ -669,12 +672,13 @@ public class Agent {
 
 汽车按“动力源”划分可分为汽油汽车、电动汽车等；按“颜色”划分可分为白色汽车、黑色汽车和红色汽车等。如果同时考虑这两种分类，其组合就很多。类图如下： 
 
-<img src="img/合成复用原则.png" alt="image-20191229173554296" style="zoom:80%;" />
+<!-- <img src="./img/合成复用原则.png" alt="image-20191229173554296" style="zoom:80%;" /> -->
+![](./img/%E5%90%88%E6%88%90%E5%A4%8D%E7%94%A8%E5%8E%9F%E5%88%99.png)
 
 从上面类图我们可以看到使用继承复用产生了很多子类，如果现在又有新的动力源或者新的颜色的话，就需要再定义新的类。我们试着将继承复用改为聚合复用看一下。
 
-<img src="img/合成复用原则1.png" alt="image-20191229173554296" style="zoom:80%;" />
-
+<!-- <img src="./img/合成复用原则1.png" alt="image-20191229173554296" style="zoom:80%;" /> -->
+![](./img/%E5%90%88%E6%88%90%E5%A4%8D%E7%94%A8%E5%8E%9F%E5%88%991.png)
 
 
 # 4，创建者模式

@@ -4,7 +4,8 @@
 
 ### 6.11.1 概述
 
-<img src="./img/image-20200215220322641.png" style="zoom:60%;" />
+<!-- <img src="./img/image-20200215220322641.png" style="zoom:60%;" /> -->
+![](./img/image-20200215220322641.png)
 
 如上图，设计一个软件用来进行加减计算。我们第一想法就是使用工具类，提供对应的加法和减法的工具方法。
 
@@ -64,7 +65,8 @@ value ::= integer
 
 用树形来表示符合文法规则的句子。
 
-<img src="./img/image-20200215225227616.png" style="zoom:50%;" />
+<!-- <img src="./img/image-20200215225227616.png" style="zoom:50%;" /> -->
+![](./img/image-20200215225227616.png)
 
 ### 6.11.2 结构
 
@@ -83,7 +85,8 @@ value ::= integer
 
 【例】设计实现加减法的软件
 
-<img src="./img/解释器模式.png" style="zoom:80%;" />
+<!-- <img src="./img/解释器模式.png" style="zoom:80%;" /> -->
+![](./img/%E8%A7%A3%E9%87%8A%E5%99%A8%E6%A8%A1%E5%BC%8F.png)
 
 代码如下：
 
@@ -333,7 +336,8 @@ public class Client {
 
   代码运行结果如下：
 
-  <img src="./img/image-20200429165544151.png" style="zoom:60%;" />
+  <!-- <img src="./img/image-20200429165544151.png" style="zoom:60%;" /> -->
+  ![](./img/image-20200429165544151.png)
 
 通过上面代码及结果可以看出：
 
@@ -351,7 +355,8 @@ Spring大约有20个模块，由1300多个不同的文件构成。这些模块�
 
 核心容器、AOP和设备支持、数据访问与集成、Web组件、通信报文和集成测试等，下面是 Spring 框架的总体架构图：
 
-<img src="./img/image-20200429111324770.png" style="zoom:40%;" />
+<!-- <img src="./img/image-20200429111324770.png" style="zoom:40%;" /> -->
+![](./img/image-20200429111324770.png)
 
 
 
@@ -391,7 +396,8 @@ spring中bean用于对一个类进行封装。如下面的配置：
 
 Spring中Bean的创建是典型的工厂模式，这一系列的Bean工厂，即IoC容器，为开发者管理对象之间的依赖关系提供了很多便利和基础服务，在Spring中有许多IoC容器的实现供用户选择，其相互关系如下图所示。
 
-<img src="./img/image-20200429185050396.png" style="zoom:60%;" />
+<!-- <img src="./img/image-20200429185050396.png" style="zoom:60%;" /> -->
+![](./img/image-20200429185050396.png)
 
 其中，BeanFactory作为最顶层的一个接口，定义了IoC容器的基本功能规范，BeanFactory有三个重要的子接口：ListableBeanFactory、HierarchicalBeanFactory和AutowireCapableBeanFactory。但是从类图中我们可以发现最终的默认实现类是DefaultListableBeanFactory，它实现了所有的接口。
 
@@ -438,7 +444,8 @@ public interface BeanFactory {
 
 BeanFactory有一个很重要的子接口，就是ApplicationContext接口，该接口主要来规范容器中的bean对象是非延时加载，即在创建容器对象的时候就对象bean进行初始化，并存储到一个容器中。
 
-<img src="./img/image-20200430220155371.png" style="zoom:60%;" />
+<!-- <img src="./img/image-20200430220155371.png" style="zoom:60%;" /> -->
+![](./img/image-20200430220155371.png)
 
 要知道工厂是如何产生对象的，我们需要看具体的IoC容器实现，Spring提供了许多IoC容器实现，比如：
 
@@ -461,7 +468,8 @@ bean标签还有很多属性：
 
 其继承体系如下图所示。
 
-<img src="./img/image-20200429204239868.png" style="zoom:60%;" />
+<!-- <img src="./img/image-20200429204239868.png" style="zoom:60%;" /> -->
+![](./img/image-20200429204239868.png)
 
 
 
@@ -469,7 +477,8 @@ bean标签还有很多属性：
 
 Bean的解析过程非常复杂，功能被分得很细，因为这里需要被扩展的地方很多，必须保证足够的灵活性，以应对可能的变化。Bean的解析主要就是对Spring配置文件的解析。这个解析过程主要通过BeanDefinitionReader来完成，看看Spring中BeanDefinitionReader的类结构图，如下图所示。
 
-<img src="./img/image-20200429204700956.png" style="zoom:60%;" />
+<!-- <img src="./img/image-20200429204700956.png" style="zoom:60%;" /> -->
+![](./img/image-20200429204700956.png)
 
 看看BeanDefinitionReader接口定义的功能来理解它具体的作用：
 
@@ -529,7 +538,8 @@ public interface BeanDefinitionRegistry extends AliasRegistry {
 
 继承结构图如下：
 
-<img src="./img/image-20200429211132185.png" style="zoom:60%;" />
+<!-- <img src="./img/image-20200429211132185.png" style="zoom:60%;" /> -->
+![](./img/image-20200429211132185.png)
 
 从上面类图可以看到BeanDefinitionRegistry接口的子实现类主要有以下几个：
 

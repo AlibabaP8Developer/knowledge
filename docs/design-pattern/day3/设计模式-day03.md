@@ -40,7 +40,8 @@ Java中的代理按照代理类生成时机不同又分为静态代理和动态�
 
 如果要买火车票的话，需要去火车站买票，坐车到火车站，排队等一系列的操作，显然比较麻烦。而火车站在多个地方都有代售点，我们去代售点买票就方便很多了。这个例子其实就是典型的代理模式，火车站是目标对象，代售点是代理对象。类图如下：
 
-<img src="./img/静态代理.png" style="zoom:80%;" />
+<!-- <img src="./img/静态代理.png" style="zoom:80%;" /> -->
+![](./img/%E9%9D%99%E6%80%81%E4%BB%A3%E7%90%86.png)
 
 代码如下：
 
@@ -466,7 +467,8 @@ public class Client {
 
 类图如下：
 
-<img src="img/适配器模式.png" style="zoom:80%;" />
+<!-- <img src="img/适配器模式.png" style="zoom:80%;" /> -->
+![](./img/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.png)
 
 代码如下：
 
@@ -564,7 +566,8 @@ public class Client {
 
 我们使用对象适配器模式将读卡器的案例进行改写。类图如下：
 
-<img src="./img/对象适配器模式.png" style="zoom:80%;" />
+<!-- <img src="./img/对象适配器模式.png" style="zoom:80%;" /> -->
+![](./img/%E5%AF%B9%E8%B1%A1%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.png)
 
 代码如下：
 
@@ -657,7 +660,8 @@ public int read(char cbuf[], int offset, int length) throws IOException {
 
 快餐店有炒面、炒饭这些快餐，可以额外附加鸡蛋、火腿、培根这些配菜，当然加配菜需要额外加钱，每个配菜的价钱通常不太一样，那么计算总价就会显得比较麻烦。
 
-<img src="D:/传智播客/专题/设计模式/成品/笔记/assets/装饰者模式-使用前.png" style="zoom:80%;" />
+<!-- <img src="D:/传智播客/专题/设计模式/成品/笔记/assets/装饰者模式-使用前.png" style="zoom:80%;" /> -->
+![](./img/%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F-%E4%BD%BF%E7%94%A8%E5%89%8D.png)
 
 使用继承的方式存在的问题：
 
@@ -688,7 +692,8 @@ public int read(char cbuf[], int offset, int length) throws IOException {
 
 类图如下：
 
-<img src="img/装饰者模式.png" style="zoom:75%;" />
+<!-- <img src="img/装饰者模式.png" style="zoom:75%;" /> -->
+![](./img/%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F.png)
 
 代码如下：
 
@@ -877,7 +882,8 @@ public class Demo {
 
 使用起来感觉确实像是装饰者模式，接下来看它们的结构：
 
-<img src="./img/装饰者模式-jdk源码.png" style="zoom:80%;" />
+<!-- <img src="./img/装饰者模式-jdk源码.png" style="zoom:80%;" /> -->
+![](./img/%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F-jdk%E6%BA%90%E7%A0%81.png)
 
 > <font color="red">小结：</font>
 >
@@ -940,7 +946,8 @@ public class Demo {
 
 类图如下：
 
-<img src="./img/桥接模式.png" style="zoom:80%;" />
+<!-- <img src="./img/桥接模式.png" style="zoom:80%;" /> -->
+![](./img/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.png)
 
 代码如下：
 
@@ -1057,7 +1064,8 @@ public class Client {
 
 小明的爷爷已经60岁了，一个人在家生活：每次都需要打开灯、打开电视、打开空调；睡觉时关闭灯、关闭电视、关闭空调；操作起来都比较麻烦。所以小明给爷爷买了智能音箱，可以通过语音直接控制这些智能家电的开启和关闭。类图如下：
 
-<img src="img/外观模式.png" style="zoom:80%;" />
+<!-- <img src="img/外观模式.png" style="zoom:80%;" /> -->
+![](./img/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.png)
 
 代码如下：
 
@@ -1170,11 +1178,13 @@ public class Client {
 
 使用tomcat作为web容器时，接收浏览器发送过来的请求，tomcat会将请求信息封装成ServletRequest对象，如下图①处对象。但是大家想想ServletRequest是一个接口，它还有一个子接口HttpServletRequest，而我们知道该request对象肯定是一个HttpServletRequest对象的子实现类对象，到底是哪个类的对象呢？可以通过输出request对象，我们就会发现是一个名为RequestFacade的类的对象。
 
-<img src="img/image-20200207234545691.png" style="zoom:60%;" />
+<!-- <img src="img/image-20200207234545691.png" style="zoom:60%;" /> -->
+![](./img/image-20200207234545691.png)
 
 RequestFacade类就使用了外观模式。先看结构图：
 
-<img src="img/外观模式-jdk源码解析.png" style="zoom:70%;" />
+<!-- <img src="img/外观模式-jdk源码解析.png" style="zoom:70%;" /> -->
+![](./img/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F-jdk%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.png)
 
 **为什么在此处使用外观模式呢？**
 

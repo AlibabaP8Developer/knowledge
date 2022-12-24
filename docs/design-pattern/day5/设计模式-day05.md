@@ -8,7 +8,8 @@
 
 类图如下：
 
-<img src="./img/状态模式前.png" style="zoom:80%;" />
+<!-- <img src="./img/状态模式前.png" style="zoom:80%;" /> -->
+![](./img/%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F%E5%89%8D.png)
 
 代码如下：
 
@@ -165,7 +166,8 @@ public class Client {
 
 对上述电梯的案例使用状态模式进行改进。类图如下：
 
-<img src="./img/状态模式.png" style="zoom:70%;" />
+<!-- <img src="./img/状态模式.png" style="zoom:70%;" /> -->
+![](./img/%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F.png)
 
 代码如下：
 
@@ -426,7 +428,8 @@ public class Client {
 
 类图如下：
 
-<img src="./img/观察者模式.png" style="zoom:80%;" />
+<!-- <img src="./img/观察者模式.png" style="zoom:80%;" /> -->
+![](./img/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.png)
 
 代码如下：
 
@@ -643,7 +646,8 @@ public class Client {
 
 如果引入中介者模式，那么同事类之间的关系将变为星型结构，从下右图中可以看到，任何一个类的变动，只会影响的类本身，以及中介者，这样就减小了系统的耦合。一个好的设计，必定不会把所有的对象关系处理逻辑封装在本类中，而是使用一个专门的类来管理那些不属于自己的行为。
 
-<img src="./img/image-20200214110924010.png" style="zoom:60%;" />
+<!-- <img src="./img/image-20200214110924010.png" style="zoom:60%;" /> -->
+![](./img/image-20200214110924010.png)
 
 **定义：**
 
@@ -671,7 +675,8 @@ public class Client {
 
 类图如下：
 
-<img src="./img/中介者模式.png" style="zoom:70%;" />
+<!-- <img src="./img/中介者模式.png" style="zoom:70%;" /> -->
+![](./img/%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.png)
 
 代码如下：
 
@@ -838,7 +843,8 @@ public class Client {
 
 【例】定义一个可以存储学生对象的容器对象，将遍历该容器的功能交由迭代器实现，涉及到的类如下：
 
-<img src="./img/迭代器模式.png" style="zoom:90%;" />
+<!-- <img src="./img/迭代器模式.png" style="zoom:90%;" /> -->
+![](./img/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.png)
 
 
 
@@ -1286,7 +1292,8 @@ public class Client {
 
 运行结果：
 
-<img src="./img/image-20200214215446638.png" style="zoom:70%;" />
+<!-- <img src="./img/image-20200214215446638.png" style="zoom:70%;" /> -->
+![](./img/image-20200214215446638.png)
 
 这个结果可能出乎一些人的意料了，为什么呢？
 
@@ -1349,7 +1356,8 @@ public class Client {
 
 运行结果如下：
 
-<img src="./img/image-20200426233931693.png" style="zoom:67%;" />
+<!-- <img src="./img/image-20200426233931693.png" style="zoom:67%;" /> -->
+![](./img/image-20200426233931693.png)
 
 **双分派实现动态绑定的本质，就是在重载方法委派的前面加上了继承体系中覆盖的环节，由于覆盖是动态的，所以重载就是动态的了。**
 
@@ -1399,7 +1407,8 @@ public class Client {
 
 备忘录角色对任何对象都提供一个接口，即宽接口，备忘录角色的内部所存储的状态就对所有对象公开。类图如下：
 
-<img src="./img/白箱备忘录模式.png" style="zoom:80%;" />
+<!-- <img src="./img/白箱备忘录模式.png" style="zoom:80%;" /> -->
+![](./img/%E7%99%BD%E7%AE%B1%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.png)
 
 代码如下：
 
@@ -1553,7 +1562,8 @@ public class Client {
 
 将 `RoleStateMemento` 设为 `GameRole` 的内部类，从而将 `RoleStateMemento` 对象封装在 `GameRole` 里面；在外面提供一个标识接口 `Memento` 给 `RoleStateCaretaker` 及其他对象使用。这样 `GameRole` 类看到的是 `RoleStateMemento` 所有的接口，而`RoleStateCaretaker`  及其他对象看到的仅仅是标识接口 `Memento` 所暴露出来的接口，从而维护了封装型。类图如下：
 
-<img src="./img/黑箱备忘录模式.png" style="zoom:70%;" />
+<!-- <img src="./img/黑箱备忘录模式.png" style="zoom:70%;" /> -->
+![](./img/%E9%BB%91%E7%AE%B1%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.png)
 
 代码如下：
 
