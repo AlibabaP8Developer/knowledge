@@ -1,5 +1,5 @@
 
-<p align='center' style='color:green;font-size:30px;font-family:华文行楷'>网站内容持续更新中...</p>
+<p align='center' style='color:green;font-size:30px;font-family:楷体'>网站内容持续更新中...</p>
 
 # Java
 
@@ -56,11 +56,16 @@
 
 ## 设计模式
 
-- [设计模式概述、UML图、类图、软件设计原则、创建型模式-单例模式](./docs/design-pattern/day1/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day01.md)
-- [创建型模式：工厂/原型/建造者模式](./docs/design-pattern/day2/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day02.md)
-- [结构型模式：代理/适配器/装饰者/桥接/外观模式](./docs/design-pattern/day3/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day03.md)
-- [结构型模式：组合/享元模式|行为型模式：模板方法/策略/命令/责任链模式](./docs/design-pattern/day4/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day04.md)
-- [行为型模式：状态/观察者/中介者/迭代器/访问者/备忘录模式](./docs/design-pattern/day5/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day05.md)
+- [设计模式概述、UML图、类图、软件设计原则、创建型模式-单例模式](./docs/design-pattern/day1/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day01.md)<br>
+
+- [创建型模式：工厂/原型/建造者模式](./docs/design-pattern/day2/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day02.md)<br>
+
+- [结构型模式：代理/适配器/装饰者/桥接/外观模式](./docs/design-pattern/day3/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day03.md)<br>
+
+- [结构型模式：组合/享元模式|行为型模式：模板方法/策略/命令/责任链模式](./docs/design-pattern/day4/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day04.md)<br>
+
+- [行为型模式：状态/观察者/中介者/迭代器/访问者/备忘录模式](./docs/design-pattern/day5/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day05.md)<br>
+
 - [行为型模式：解释器模式|自定义Spring框架](./docs/design-pattern/day6/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day06.md)
 
 ## 重要知识点
@@ -177,6 +182,8 @@
 - [从ReentrantLock的实现看AQS的原理及应用](./docs/concurrent/reentrantlock.md)
 
 - [万字解析 ThreadLocal 关键字](./docs/concurrent/threadlocal.md)
+
+<iframe src="//player.bilibili.com/player.html?aid=769569212&bvid=BV1ar4y1x727&cid=734459712&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ## Netty
 
@@ -319,9 +326,11 @@
 
 - [安装Elasticsearch](./docs/es/%E5%AE%89%E8%A3%85elasticsearch.md)<br>
 
-- [Elasticsearch详解](./docs/es/%E5%88%86%E5%B8%83%E5%BC%8F%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E01.md)<br>
+- [Elasticsearch分布式搜索引擎01](./docs/es/%E5%88%86%E5%B8%83%E5%BC%8F%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E01.md)<br>
 
-- [ElasticSearch入门总结](./docs/es/%E5%88%86%E5%B8%83%E5%BC%8F%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E01.md)
+- [ElasticSearch分布式搜索引擎02](./docs/es/day02/%E5%88%86%E5%B8%83%E5%BC%8F%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E02.md)
+
+- [ElasticSearch分布式搜索引擎03](./docs/es/day03/%E5%88%86%E5%B8%83%E5%BC%8F%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E03.md)
 
 
 
@@ -422,6 +431,10 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=718216771&bvid=BV13Q4y1C7hS&cid=415333708&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
+> 尚硅谷ShardingSphere5实战教程（快速入门掌握核心）
+
+<iframe src="//player.bilibili.com/player.html?aid=218068488&bvid=BV1ta411g7Jf&cid=832346902&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
 ### Java项目实战
 
 > 黑马程序员Java企业级项目《集信达短信平台》，从零打造高可用、大吞吐Java企业级短信平台解决方案
@@ -440,6 +453,10 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=470376996&bvid=BV13T411372x&cid=757931203&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
+> 【尚硅谷】SSM项目教程，SSM+SpringBoot+SpringSecurity框架整合项目
+
+<iframe src="//player.bilibili.com/player.html?aid=389433522&bvid=BV1ad4y1y7LU&cid=871210777&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
 ### Java面试相关
 
 ---
@@ -448,6 +465,9 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=633264342&bvid=BV15b4y117RJ&cid=800246207&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
 
+> 尚硅谷MySQL数据库高频面试题，mysql大厂面试题甄选（全面细致解读）
+
+<iframe src="//player.bilibili.com/player.html?aid=690671637&bvid=BV1N24y1y7a1&cid=906416582&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ## 大数据
 
@@ -468,6 +488,10 @@
 > 尚硅谷大数据之Flink实时数仓3.0，数据仓库项目实战教程
 
 <iframe src="//player.bilibili.com/player.html?aid=429108720&bvid=BV1TG411a7nL&cid=791202042&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 【尚硅谷】大数据技术之Zookeeper 3.5.7版本教程
+
+<iframe src="//player.bilibili.com/player.html?aid=376425897&bvid=BV1to4y1C7gw&cid=361577076&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ## Python
 

@@ -641,7 +641,7 @@ public abstract class InputStream implements Closeable {
 
 作为一个程序猿，开发需要选择一款开发工具，当然可以进行代码开发的工具有很多，可以选择Idea进行开发，也可以使用eclipse进行开发，也可以使用其他的一些开发工具。
 
-<img src="./img/image-20200210144457478.png" style="zoom:70%;" />
+<!-- <img src="./img/image-20200210144457478.png" style="zoom:70%;" /> -->
 ![](./img/image-20200210144457478.png)
 
 **定义：**
