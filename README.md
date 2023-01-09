@@ -68,6 +68,10 @@
 
 - [行为型模式：解释器模式|自定义Spring框架](./docs/design-pattern/day6/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-day06.md)
 
+> 黑马程序员Java设计模式详解，全网最全23种Java设计模式
+
+<iframe src="//player.bilibili.com/player.html?aid=970482222&bvid=BV1Np4y1z7BU&cid=262371151&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
 ## 重要知识点
 
 <!-- - [反射机制](./docs/basic/反射机制.md) <br> -->
@@ -200,6 +204,7 @@
 # 数据库
 
 ## MySQl
+- [MySQL面试题](./docs/database/mysql1/Mysql%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 - [数据库基础知识](./docs/database/basis.md) <br>
 
@@ -226,6 +231,14 @@
 - [MySQL安装](./docs/database/mysql/mysql-install.md)
 
 - [MySQL备份与恢复](./docs/database/mysql/mysql-bak.md)
+
+> 黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括
+
+<iframe src="//player.bilibili.com/player.html?aid=765670802&bvid=BV1Kr4y1i7ru&cid=772184762&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
+
+> 尚硅谷MySQL数据库高频面试题，mysql大厂面试题甄选（全面细致解读）
+
+<iframe src="//player.bilibili.com/player.html?aid=690671637&bvid=BV1N24y1y7a1&cid=906416582&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ## Redis
 
@@ -256,6 +269,22 @@
 - [基础篇Redis、初始Redis、Redis常见命令、Redis的Java客户端-Jedis、Redis的Java客户端-SpringDataRedis](./docs/database/Redis/redis/Redis.md)
 
 - [Redis快速入门、Redis常见命令、Redis的Java客户端](./docs/database/Redis/redis/01.%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.md)
+
+> 黑马程序员Redis入门到实战教程，全面透析redis底层原理+redis分布式锁
+
+<iframe src="//player.bilibili.com/player.html?aid=766995956&bvid=BV1cr4y1671t&cid=784553075&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
+
+## ShardingSphere5
+
+- [ShardingSphere5](./docs/sharding/ShardingSphere5.md)
+
+> 尚硅谷ShardingSphere5实战教程（快速入门掌握核心）
+
+<iframe src="//player.bilibili.com/player.html?aid=218068488&bvid=BV1ta411g7Jf&cid=832346902&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 尚硅谷Sharding Sphere，Sharding JDBC，分库分表利器，数据库中间件
+
+<iframe src="//player.bilibili.com/player.html?aid=498278570&bvid=BV1LK411s7RX&cid=257328010&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 # JVM
 
@@ -332,7 +361,9 @@
 
 - [ElasticSearch分布式搜索引擎03](./docs/es/day03/%E5%88%86%E5%B8%83%E5%BC%8F%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E03.md)
 
+> SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，史上最全面的SpringCloud微服务技术栈课程
 
+<iframe src="//player.bilibili.com/player.html?aid=717242269&bvid=BV1LQ4y127n4&cid=770095979&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
 
 # Linux
 
@@ -356,7 +387,9 @@
 
 > [Nginx安装和配置https精简实用版](./docs/nginx/nginx.md)
 
+> 黑马程序员Nginx教程，Java进阶从0到1学会Nginx分布式框架
 
+<iframe src="//player.bilibili.com/player.html?aid=247400507&bvid=BV1ov41187bq&cid=317727001&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 # Docker
 
@@ -370,6 +403,22 @@
 
 # 学习视频推荐
 
+## 大学公开课
+
+---
+
+> 数据结构-浙江大学
+
+<iframe src="//player.bilibili.com/player.html?aid=18586085&bvid=BV1JW411i731&cid=30323260&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 王道计算机考研 计算机组成原理
+
+<iframe src="//player.bilibili.com/player.html?aid=70211798&bvid=BV1BE411D7ii&cid=223416445&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 王道计算机考研 操作系统
+
+<iframe src="//player.bilibili.com/player.html?aid=70156862&bvid=BV1YE411D7nH&cid=121508229&page=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
 ## Java
 ### Java基础
 
@@ -377,47 +426,15 @@
 
 > [Java学习路线图（2022版）](https://www.bilibili.com/read/cv9965357?spm_id_from=333.999.list.card_article.click)
 
-> 黑马程序员Java零基础视频教程(2022最新Java入门，含斯坦福大学练习题+力扣算法题+大厂Java面试题
-
-<iframe src="//player.bilibili.com/player.html?aid=298622138&bvid=BV17F411T7Ao&cid=774326404&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
-
 > 黑马程序员2022最新SSM框架教程_Spring+SpringMVC+Maven高级+SpringBoot
 
 <iframe src="//player.bilibili.com/player.html?aid=553267404&bvid=BV1Fi4y1S7ix&cid=773754543&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
-
-> 黑马程序员Redis入门到实战教程，全面透析redis底层原理+redis分布式锁
-
-<iframe src="//player.bilibili.com/player.html?aid=766995956&bvid=BV1cr4y1671t&cid=784553075&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
 
 ### Java进阶
 
 > 黑马程序员SpringBoot2全套视频教程，springboot零基础到项目实战
 
 <iframe src="//player.bilibili.com/player.html?aid=633835873&bvid=BV15b4y1a7yG&cid=784672268&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
-
-> SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，史上最全面的SpringCloud微服务技术栈课程
-
-<iframe src="//player.bilibili.com/player.html?aid=717242269&bvid=BV1LQ4y127n4&cid=770095979&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
-
-> 黑马程序员Java设计模式详解，全网最全23种Java设计模式
-
-<iframe src="//player.bilibili.com/player.html?aid=970482222&bvid=BV1Np4y1z7BU&cid=262371151&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-> 黑马程序员Nginx教程，Java进阶从0到1学会Nginx分布式框架
-
-<iframe src="//player.bilibili.com/player.html?aid=247400507&bvid=BV1ov41187bq&cid=317727001&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-> 尚硅谷Sharding Sphere，Sharding JDBC，分库分表利器，数据库中间件
-
-<iframe src="//player.bilibili.com/player.html?aid=498278570&bvid=BV1LK411s7RX&cid=257328010&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-> 黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括
-
-<iframe src="//player.bilibili.com/player.html?aid=765670802&bvid=BV1Kr4y1i7ru&cid=772184762&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
-
-> 黑马程序员Spring视频教程，全面深度讲解spring5底层原理
-
-<iframe src="//player.bilibili.com/player.html?aid=979948899&bvid=BV1P44y1N7QG&cid=557659779&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
 
 > 黑马程序员Java百度地图全套教程，从Java地图基础API到实战案例应用
 
@@ -426,14 +443,6 @@
 > 【尚硅谷】微信支付&支付宝支付，一套搞定Java在线支付开发教程
 
 <iframe src="//player.bilibili.com/player.html?aid=722266487&bvid=BV1US4y1D77m&cid=586056536&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
->云原生Java架构师的第一课K8s+Docker+KubeSphere+DevOps
-
-<iframe src="//player.bilibili.com/player.html?aid=718216771&bvid=BV13Q4y1C7hS&cid=415333708&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-> 尚硅谷ShardingSphere5实战教程（快速入门掌握核心）
-
-<iframe src="//player.bilibili.com/player.html?aid=218068488&bvid=BV1ta411g7Jf&cid=832346902&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ### Java项目实战
 
@@ -464,10 +473,6 @@
 > Java八股文面试题视频教程，Java面试八股文宝典（含阿里、腾迅大厂java面试真题、Java并发、Java数据结构、JVM等最新Java面试真题
 
 <iframe src="//player.bilibili.com/player.html?aid=633264342&bvid=BV15b4y117RJ&cid=800246207&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
-
-> 尚硅谷MySQL数据库高频面试题，mysql大厂面试题甄选（全面细致解读）
-
-<iframe src="//player.bilibili.com/player.html?aid=690671637&bvid=BV1N24y1y7a1&cid=906416582&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ## 大数据
 
@@ -689,62 +694,6 @@ od36
 
 <iframe src="//player.bilibili.com/player.html?aid=44334814&bvid=BV1jb411h7q2&cid=77631025&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
-## 大学公开课
-
----
-
-> 数据结构-浙江大学
-
-<iframe src="//player.bilibili.com/player.html?aid=18586085&bvid=BV1JW411i731&cid=30323260&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-> 王道计算机考研 计算机组成原理
-
-<iframe src="//player.bilibili.com/player.html?aid=70211798&bvid=BV1BE411D7ii&cid=223416445&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-
-
-# 软考高级
-
-## 系统架构设计师
-
-> [技术部分专题：01信息系统基础](./docs/soft-exam-high/%E6%8A%80%E6%9C%AF%E9%83%A8%E5%88%86%E4%B8%93%E9%A2%98%EF%BC%9A01%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80.md)
-
-> [2021年11月系统架构设计师 上午题 详解](./docs/soft-exam-high/2021%E5%B9%B411%E6%9C%88%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88%20%E4%B8%8A%E5%8D%88%E9%A2%98.md)
-
-> [计算机系统基础练习题（1）](./docs/soft-exam-high/%E8%BD%AF%E8%80%83%E9%AB%98%E7%BA%A7-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80.md)
-
-> [计算机系统基础练习题（2）](./docs/soft-exam-high/%E8%BD%AF%E4%BB%B6%E9%AB%98%E7%BA%A7-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%802.md)
-
-
-
-# 开源项目推荐
-
- - [JavaStudy](https://github.com/lzhjavagithub/JavaStudy) <br>
-
- - [InterviewGuide](https://github.com/forthespada/InterviewGuide) <br>
-
- - [若依](https://github.com/yangzongzhuan) <br>
-
- - [Spring 系列教程](https://github.com/wuyouzhuguli/SpringAll) <br>
-
- - [mall-swarm微服务商城系统](https://github.com/macrozheng/mall-swarm) <br>
-
- - [微人事](https://github.com/lenve/vhr) <br>
-
- - [云收藏 - 让收藏更简单](https://github.com/cloudfavorites/favorites-web) <br>
-
- - [码问-论坛、问答系统](https://github.com/codedrinker/community) <br>
-
- - [V部落](https://github.com/lenve/VBlog) <br>
-
- - [博客系统](https://github.com/ZHENFENG13/My-Blog) <br>
-
- - [学之思开源考试系统 - Postgresql版](https://gitee.com/mindskip/uexam) <br>
-
- - [PassJava 学习教程](https://github.com/Jackson0714/PassJava-Platform) <br>
-
-
-
 # 关于作者
 
  - 普通开发者，热情的学习者，狂热的数码迷
@@ -755,4 +704,3 @@ od36
  - 小伙伴在学习和工作过程中有任何技术问题加入QQ群（779146205）进行探讨
 
 > @2022
-

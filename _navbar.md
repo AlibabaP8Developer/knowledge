@@ -51,6 +51,7 @@
 - 接私活
    - [**程序员客栈**](https://www.proginn.com/)
    - [**码市**](https://codemart.com/)
+   - [**开源众包**](https://zb.oschina.net/)
 - 在线技术文档
    - [**Vue官方文档**](https://cn.vuejs.org/)
    - [**Element官方文档**](https://element.eleme.cn/)
