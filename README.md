@@ -224,6 +224,19 @@
 - [推导式](./docs/python/07-%E6%8E%A8%E5%AF%BC%E5%BC%8F.md)
 - [文件操作](./docs/python/%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.md)
 
+---
+> 黑马程序员最新Python教程，8天python从入门到精通，学python看这套就够了
+
+<iframe src="//player.bilibili.com/player.html?aid=941747210&bvid=BV1qW4y1a7fU&cid=800522935&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 黑马程序员全套Python教程_Python基础入门视频教程，零基础小白自学Python必备教程
+
+<iframe src="//player.bilibili.com/player.html?aid=54728208&bvid=BV1o4411M71o&cid=95689013&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 尚硅谷Python爬虫教程小白零基础速通（含python基础+爬虫案例）
+
+<iframe src="//player.bilibili.com/player.html?aid=632685046&bvid=BV1Db4y1m7Ho&cid=400237926&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
 # 数据库
 
 ## MySQl
@@ -254,6 +267,10 @@
 - [MySQL安装](./docs/database/mysql/mysql-install.md)
 
 - [MySQL备份与恢复](./docs/database/mysql/mysql-bak.md)
+
+- [MySQL存储引擎、索引、SQL优化、视图、存储过程、触发器、锁、MySQL管理](./docs/database/MySQL%E8%BF%9B%E9%98%B6%E7%AF%87/MySQL%E8%BF%9B%E9%98%B6%E7%AF%87.md)
+
+- [MySQL日志、主从复制、分库分表、读写分离](./docs/database/MySQL%E8%BF%90%E7%BB%B4%E7%AF%87/MySQL%E8%BF%90%E7%BB%B4%E7%AF%87.md)
 
 > 黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括
 
@@ -422,7 +439,35 @@
 
 > [docker实用操作](./docs/docker/docker-use.md)
 
+# Hadoop
 
+> [hadoop运行模式](./docs/bigdata/hadoop/Hadoop%20%E8%BF%90%E8%A1%8C%E6%A8%A1%E5%BC%8F.md)
+
+> [Hadoop 运行环境搭建](./docs/bigdata/hadoop/Hadoop%20%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
+
+> [常见错误及解决方案](./docs/bigdata/hadoop/%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+
+---
+
+> 尚硅谷大数据Hadoop教程（Hadoop 3.x安装搭建到集群调优）
+
+<iframe src="//player.bilibili.com/player.html?aid=971812826&bvid=BV1Qp4y1n7EN&cid=302496809&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 尚硅谷HBase2.x教程（2022新版，一套全面掌握hbase）
+
+<iframe src="//player.bilibili.com/player.html?aid=385246655&bvid=BV1PZ4y1i7gZ&cid=751912424&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 尚硅谷Kafka3.x教程（2022版，从入门到调优，深入全面）
+
+<iframe src="//player.bilibili.com/player.html?aid=766541848&bvid=BV1vr4y1677k&cid=509967785&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 尚硅谷大数据之Flink实时数仓3.0，数据仓库项目实战教程
+
+<iframe src="//player.bilibili.com/player.html?aid=429108720&bvid=BV1TG411a7nL&cid=791202042&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+> 【尚硅谷】大数据技术之Zookeeper 3.5.7版本教程
+
+<iframe src="//player.bilibili.com/player.html?aid=376425897&bvid=BV1to4y1C7gw&cid=361577076&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 # 学习视频推荐
 
@@ -496,44 +541,6 @@
 > Java八股文面试题视频教程，Java面试八股文宝典（含阿里、腾迅大厂java面试真题、Java并发、Java数据结构、JVM等最新Java面试真题
 
 <iframe src="//player.bilibili.com/player.html?aid=633264342&bvid=BV15b4y117RJ&cid=800246207&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450"> </iframe>
-
-## 大数据
-
----
-
-> 尚硅谷大数据Hadoop教程（Hadoop 3.x安装搭建到集群调优）
-
-<iframe src="//player.bilibili.com/player.html?aid=971812826&bvid=BV1Qp4y1n7EN&cid=302496809&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-> 尚硅谷HBase2.x教程（2022新版，一套全面掌握hbase）
-
-<iframe src="//player.bilibili.com/player.html?aid=385246655&bvid=BV1PZ4y1i7gZ&cid=751912424&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-> 尚硅谷Kafka3.x教程（2022版，从入门到调优，深入全面）
-
-<iframe src="//player.bilibili.com/player.html?aid=766541848&bvid=BV1vr4y1677k&cid=509967785&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-> 尚硅谷大数据之Flink实时数仓3.0，数据仓库项目实战教程
-
-<iframe src="//player.bilibili.com/player.html?aid=429108720&bvid=BV1TG411a7nL&cid=791202042&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-> 【尚硅谷】大数据技术之Zookeeper 3.5.7版本教程
-
-<iframe src="//player.bilibili.com/player.html?aid=376425897&bvid=BV1to4y1C7gw&cid=361577076&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-## Python
-
-> 黑马程序员最新Python教程，8天python从入门到精通，学python看这套就够了
-
-<iframe src="//player.bilibili.com/player.html?aid=941747210&bvid=BV1qW4y1a7fU&cid=800522935&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-> 黑马程序员全套Python教程_Python基础入门视频教程，零基础小白自学Python必备教程
-
-<iframe src="//player.bilibili.com/player.html?aid=54728208&bvid=BV1o4411M71o&cid=95689013&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
-> 尚硅谷Python爬虫教程小白零基础速通（含python基础+爬虫案例）
-
-<iframe src="//player.bilibili.com/player.html?aid=632685046&bvid=BV1Db4y1m7Ho&cid=400237926&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ## Golang
 
@@ -726,4 +733,4 @@ od36
  - 本站是作者自学编程以来所用资源和分享内容的聚合，旨在为编程自学者提供一系列清晰的学习路线/靠谱的资源/高效的工具/务实的技术文章，方便自己也方便他人。网站内容会保持持续更新，欢迎收藏品鉴
  - 小伙伴在学习和工作过程中有任何技术问题加入QQ群（779146205）进行探讨
 
-> @2022
+> @2023

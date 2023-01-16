@@ -88,6 +88,7 @@
 - 开源项目推荐
     - [**JavaStudy**](https://github.com/lzhjavagithub/JavaStudy)
     - [InterviewGuide](https://github.com/forthespada/InterviewGuide)
+    - [人人开源](https://gitee.com/renrenio)
     - [若依](https://github.com/yangzongzhuan)
     - [Spring 系列教程](https://github.com/wuyouzhuguli/SpringAll)
     - [mall-swarm微服务商城系统](https://github.com/macrozheng/mall-swarm)
