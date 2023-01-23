@@ -111,9 +111,9 @@
 
 - [Spring常见问题总结](./docs/service/spring/spring-knowledge-and-questions-summary.md) <br>
 
-<!-- - [SpringBoot常用注解总结](./docs/basic/SpringBoot常用注解总结.md) <br> -->
+- [Nacos源码分析](./docs/service/nacos-code/Nacos%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
 
-<!-- - [SpringBoot自动装配原理](./docs/basic/SpringBoot自动装配原理.md) <br> -->
+- [Sentinel源码分析](./docs/service/nacos-code/Sentinel%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
 
 - [Spring事务总结](./docs/basic/Spring事务总结.md) <br>
 
@@ -149,7 +149,11 @@
 
 - [微服务保护Sentinel](./docs/service/微服务保护.md) <br>
 
+- [微服务常见面试题](./docs/service/mianshiti/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+
 - [Jmeter快速入门](./docs/service/Jmeter快速入门.md) <br>
+
+<iframe src="//player.bilibili.com/player.html?aid=717242269&bvid=BV1LQ4y127n4&cid=770095979&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
 ## Zookeeper
 
