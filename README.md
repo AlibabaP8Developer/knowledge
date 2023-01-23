@@ -229,16 +229,67 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=941747210&bvid=BV1qW4y1a7fU&cid=800522935&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
-> 黑马程序员全套Python教程_Python基础入门视频教程，零基础小白自学Python必备教程
-
-<iframe src="//player.bilibili.com/player.html?aid=54728208&bvid=BV1o4411M71o&cid=95689013&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
-
 > 尚硅谷Python爬虫教程小白零基础速通（含python基础+爬虫案例）
 
 <iframe src="//player.bilibili.com/player.html?aid=632685046&bvid=BV1Db4y1m7Ho&cid=400237926&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
 
-# 数据库
 
+# C和CPP
+
+<!-- - [C语言在线文档](./docs/cpp/c-language/c01.md)
+
+- [C++语言在线文档](./docs/cpp/cpp-language/cpp01.md) -->
+
+- [C语言基础讲义（word版）](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/C%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%892018%E4%BF%AE%E8%AE%A2%E7%89%88.doc)
+
+- [C++语言基础讲义（word版）](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/c%2B%2B%E8%AE%B2%E4%B9%89.doc)
+
+- [C语言数据结构讲义（word版）](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.doc)
+
+- [C++语言的模板和IO讲义（word版）](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E6%A8%A1%E7%89%88%E5%92%8CIO%E8%AE%B2%E4%B9%89.doc)
+
+- [C++语言的STL讲义（word版）](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/STL%E8%AE%B2%E4%B9%89.docx)
+
+
+# 前端
+
+- [Vue全家桶 PDF版](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E5%B0%9A%E7%A1%85%E8%B0%B7_%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF_Vue%E5%85%A8%E5%AE%B6%E6%A1%B6.pdf)
+
+# 图书推荐[PDF免费下载]
+
+- [算法 第4版](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E7%AE%97%E6%B3%95%20%E7%AC%AC4%E7%89%88%20.pdf)
+
+- [算法导论](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA.pdf)
+
+- [LeetCode刷题手册](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/LeetCode%E5%88%B7%E9%A2%98%E6%89%8B%E5%86%8C%EF%BC%88%E9%98%BF%E9%87%8C%E5%A4%A7%E4%BD%AC%EF%BC%89.pdf)
+
+- [LeetCode面试常见算法整理](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/LeetCode%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95%E6%95%B4%E7%90%86.pdf)
+
+- [《大话数据结构》程杰](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E3%80%8A%E5%A4%A7%E8%AF%9D%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E7%A8%8B%E6%9D%B0%20%28%E6%9C%89%E7%9B%AE%E5%BD%95%29.pdf)
+
+- [程序员的算法趣题](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%AE%97%E6%B3%95%E8%B6%A3%E9%A2%98.pdf)
+
+- [剑指offer](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E5%89%91%E6%8C%87offer.pdf)
+
+- [图解设计模式](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E5%9B%BE%E8%A7%A3%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
+
+- [大话设计模式](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
+
+- [SQL 经典实例](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/SQL%20%E7%BB%8F%E5%85%B8%E5%AE%9E%E4%BE%8B.pdf)
+
+- [阿里巴巴Java开发手册2.0](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C2.0.pdf)
+
+- [鸟哥的Linux私房菜基础学习篇](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87.pdf)
+
+- [Python编程快速上手—让繁琐工作自动化](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/Python%E7%BC%96%E7%A8%8B%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E2%80%94%E8%AE%A9%E7%B9%81%E7%90%90%E5%B7%A5%E4%BD%9C%E8%87%AA%E5%8A%A8%E5%8C%96_PDF%E4%B8%AD%E6%96%87%E9%AB%98%E6%B8%85%E6%99%B0%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
+
+- [Primer C++ 高清带书签完整版本 第5版](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/book/Primer%20c%2B%2B%20%E9%AB%98%E6%B8%85%E5%B8%A6%E4%B9%A6%E7%AD%BE%E5%AE%8C%E6%95%B4%E7%89%88%E6%9C%AC%20%E7%AC%AC5%E7%89%88.pdf)
+
+- [Swift 5.1 官方教程](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/book/Swift%205.1%20%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B.pdf)
+
+- [2023年Java面试真题](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/book/2021%20Java%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98.pdf)
+
+# 数据库
 ## MySQl
 - [MySQL面试题](./docs/database/mysql1/Mysql%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
@@ -439,11 +490,13 @@
 
 > [docker实用操作](./docs/docker/docker-use.md)
 
-# Hadoop
 
-> [hadoop运行模式](./docs/bigdata/hadoop/Hadoop%20%E8%BF%90%E8%A1%8C%E6%A8%A1%E5%BC%8F.md)
+# 大数据
+## Hadoop
 
 > [Hadoop 运行环境搭建](./docs/bigdata/hadoop/Hadoop%20%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
+
+> [hadoop 运行模式](./docs/bigdata/hadoop/Hadoop%20%E8%BF%90%E8%A1%8C%E6%A8%A1%E5%BC%8F.md)
 
 > [常见错误及解决方案](./docs/bigdata/hadoop/%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 
