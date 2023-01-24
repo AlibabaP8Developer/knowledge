@@ -259,6 +259,14 @@
 
 - [Vue全家桶 PDF版](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E5%B0%9A%E7%A1%85%E8%B0%B7_%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF_Vue%E5%85%A8%E5%AE%B6%E6%A1%B6.pdf)
 
+# 面试与简历指导
+
+> [不同阶段的优秀简历模板下载](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/%E7%AE%80%E5%8E%86%E8%B5%84%E6%96%99%E5%8C%85.rar)
+
+> [轻松应对大厂面试夺命连环问](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/%E5%B0%9A%E7%A1%85%E8%B0%B7%E6%8A%80%E6%9C%AF%E5%98%89%E5%B9%B4%E5%8D%8E2022.11.2.mp4)
+
+> [一线架构师手把手教你撰写高薪简历](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/%E8%A7%86%E9%A2%91.mp4)
+
 # 图书推荐[PDF免费下载]
 
 - [算法 第4版](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/%E7%AE%97%E6%B3%95%20%E7%AC%AC4%E7%89%88%20.pdf)
@@ -407,9 +415,6 @@
 - [读写分离&分库分表](./docs/high-mq/read-and-write-separation-and-library-subtable.md)
 
 - [负载均衡](./docs/high-mq/load-balancing.md)
-
-
-
 # 消息队列
 
 ## RabbitMQ
@@ -504,6 +509,42 @@
 
 > [常见错误及解决方案](./docs/bigdata/hadoop/%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 
+> [大数据技术之大数据概论.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/01_%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8B%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%A6%82%E8%AE%BA.pdf)
+
+> [大数据技术之Hadoop（入门).pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/02_%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BHadoop%EF%BC%88%E5%85%A5%E9%97%A8%EF%BC%89V3.3.pdf)
+
+> [大数据技术之Hadoop（HDFS）.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/03_%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BHadoop%EF%BC%88HDFS%EF%BC%89V3.3.pdf)
+
+> [大数据技术之Hadoop（MapReduce）.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/04_%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BHadoop%EF%BC%88MapReduce%EF%BC%89V3.3.pdf)
+
+> [大数据技术之Hadoop（Yarn）.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/05_%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BHadoop%EF%BC%88Yarn%EF%BC%89V3.3.pdf)
+
+> [大数据技术之Hadoop（生产调优手册）.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/06_%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BHadoop%EF%BC%88%E7%94%9F%E4%BA%A7%E8%B0%83%E4%BC%98%E6%89%8B%E5%86%8C%EF%BC%89V3.3.pdf)
+
+> [大数据技术之Hadoop（源码解析）.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/07_%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BHadoop%EF%BC%88%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%89V3.3.pdf)
+
+## Kafka
+
+> [大数据技术之Kafka.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/01_%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BKafka.pdf)
+
+> [大数据技术之Kafka（源码解析）.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/04_%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BKafka%EF%BC%88%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%89V3.3.pdf)
+
+> [大数据技术之Kafka（生产调优手册）.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/03_%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BKafka%EF%BC%88%E7%94%9F%E4%BA%A7%E8%B0%83%E4%BC%98%E6%89%8B%E5%86%8C%EF%BC%89V3.3.pdf)
+
+> [大数据技术之Kafka（外部系统集成）.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/02_%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BKafka%EF%BC%88%E5%A4%96%E9%83%A8%E7%B3%BB%E7%BB%9F%E9%9B%86%E6%88%90%EF%BC%89V3.3.pdf)
+
+## 数据湖Hudi
+
+> [大数据技术之Hudi.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BHudi.pdf)
+
+## Hive
+
+> [大数据技术之Hive（V4.8.0）.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BHive%EF%BC%88V4.8.0%EF%BC%89.pdf)
+
+## HBase
+
+> [大数据技术之HBase.pdf](https://2022tiger.oss-cn-beijing.aliyuncs.com/2023/hadoop/%E5%B0%9A%E7%A1%85%E8%B0%B7%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BHBase.pdf)
+
 ---
 
 > 尚硅谷大数据Hadoop教程（Hadoop 3.x安装搭建到集群调优）
@@ -525,6 +566,23 @@
 > 【尚硅谷】大数据技术之Zookeeper 3.5.7版本教程
 
 <iframe src="//player.bilibili.com/player.html?aid=376425897&bvid=BV1to4y1C7gw&cid=361577076&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="400"> </iframe>
+
+# 软考
+## 中级软件设计师
+
+> PPT
+
+- [录播视频PPT](./docs/ruankao/%E5%BD%95%E6%92%ADPPT.md)
+
+- [直播视频PPT](./docs/ruankao/%E7%9B%B4%E6%92%ADPPT.md)
+
+> 录播、直播分享
+
+- [百度网盘/提取码: j4ha](https://pan.baidu.com/s/1UMRb4XKVBo_TMQ5CXvM-_A?pwd=j4ha)
+
+## 高级系统架构设计师
+
+> [百度网盘/提取码: bfrx](https://pan.baidu.com/s/1TmFRGq7VgOMC9at1iLlVVg?pwd=bfrx)
 
 # 学习视频推荐
 
